@@ -1,0 +1,709 @@
+﻿Log file open, 09/25/19 16:46:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TeamFellowship
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.257122
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.057s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU: Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epiclocale=en-GB
+LogInit: Base Directory: A:/Program Files/Epic/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.09.25-15.46.51:544][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.25-15.46.51:544][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.25-15.46.51:551][  0]LogHAL: Display: Platform has ~ 16 GB [17115426816 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.25-15.46.51:551][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.09.25-15.46.51:552][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.25-15.46.51:552][  0]LogInit: Computer: CHARLIE-PC
+[2019.09.25-15.46.51:552][  0]LogInit: User: Charlie
+[2019.09.25-15.46.51:552][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.25-15.46.51:552][  0]LogInit: High frequency timer resolution =3.416005 MHz
+[2019.09.25-15.46.51:552][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.25-15.46.51:552][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.25-15.46.51:552][  0]LogMemory: Process Physical Memory: 102.08 MB used, 102.08 MB peak
+[2019.09.25-15.46.51:552][  0]LogMemory: Process Virtual Memory: 94.26 MB used, 94.26 MB peak
+[2019.09.25-15.46.51:552][  0]LogMemory: Physical Memory: 8264.18 MB used,  8058.36 MB free, 16322.54 MB total
+[2019.09.25-15.46.51:552][  0]LogMemory: Virtual Memory: 491.37 MB used,  8058.36 MB free, 8388608.00 MB total
+[2019.09.25-15.46.51:579][  0]LogInit: Using OS detected language (en-GB).
+[2019.09.25-15.46.51:579][  0]LogInit: Using OS detected locale (en-GB).
+[2019.09.25-15.46.51:579][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.09.25-15.46.51:967][  0]LogStreaming: Display: Took  0.388s to InitEngineTextLocalization.
+[2019.09.25-15.46.51:967][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.09.25-15.46.51:967][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.09.25-15.46.51:967][  0]LogInit: Setting process to DPI aware
+[2019.09.25-15.46.51:993][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.25-15.46.51:993][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.25-15.46.52:124][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.25-15.46.52:124][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.25-15.46.52:166][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.09.25-15.46.52:166][  0]LogD3D11RHI:       6036/0/7905 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.25-15.46.52:166][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.25-15.46.52:171][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.25-15.46.52:171][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.25-15.46.52:171][  0]LogWindows: EnumDisplayDevices:
+[2019.09.25-15.46.52:171][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.09.25-15.46.52:172][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.09.25-15.46.52:172][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.09.25-15.46.52:172][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.09.25-15.46.52:172][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2019.09.25-15.46.52:172][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.09.25-15.46.52:172][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.09.25-15.46.52:172][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.09.25-15.46.52:172][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.09.25-15.46.52:173][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2019.09.25-15.46.52:173][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2019.09.25-15.46.52:173][  0]LogRHI: Texture pool is 4225 MB (70% of 6036 MB)
+[2019.09.25-15.46.52:192][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.25-15.46.52:207][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.09.25-15.46.52:299][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../../../Unreal Projects/TeamFellowship/Intermediate/Shaders/WorkingDirectory/11004/).
+[2019.09.25-15.46.52:299][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Charlie/AppData/Local/Temp/UnrealShaderWorkingDir/4395B7744BEF1F416A88D1AA00426E7A/'.
+[2019.09.25-15.46.52:574][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.09.25-15.46.52:586][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.09.25-15.46.52:599][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.09.25-15.46.52:612][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.09.25-15.46.52:625][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.09.25-15.46.52:638][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.09.25-15.46.52:650][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.09.25-15.46.52:663][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.09.25-15.46.52:669][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.09.25-15.46.52:743][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:743][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:743][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:743][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:744][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.25-15.46.52:745][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.09.25-15.46.52:802][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.09.25-15.46.52:802][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.09.25-15.46.52:825][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.09.25-15.46.52:825][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.09.25-15.46.52:838][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.09.25-15.46.52:850][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.09.25-15.46.52:862][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.09.25-15.46.52:874][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.09.25-15.46.52:883][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.09.25-15.46.52:883][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.25-15.46.52:931][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.25-15.46.52:931][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.25-15.46.52:931][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.25-15.46.53:611][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.25-15.46.53:697][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/Charlie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.09.25-15.46.53:697][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Charlie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.09.25-15.46.53:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../Unreal Projects/TeamFellowship/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.25-15.46.53:698][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.25-15.46.53:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../Unreal Projects/TeamFellowship/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.25-15.46.53:698][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.25-15.46.53:713][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.25-15.46.53:725][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Charlie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.25-15.46.53:725][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.25-15.46.53:725][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.25-15.46.53:745][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.25-15.46.53:746][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.25-15.46.53:747][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.25-15.46.53:814][  0]LogAssetRegistry: FAssetRegistry took 0.0243 seconds to start up
+[2019.09.25-15.46.54:114][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.25-15.46.54:241][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.09.25-15.46.54:243][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.09.25-15.46.54:244][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.25-15.46.54:244][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.25-15.46.54:244][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.09.25-15.46.54:260][  0]LogNetVersion: TeamFellowship 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 626393079)
+[2019.09.25-15.46.54:728][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.061141 seconds
+[2019.09.25-15.46.54:733][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.09.25-15.46.54:733][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.09.25-15.46.54:733][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.25-15.46.55:466][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.25-15.46.55:479][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.25-15.46.55:620][  0]SourceControl: Source control is disabled
+[2019.09.25-15.46.55:620][  0]SourceControl: Source control is disabled
+[2019.09.25-15.46.55:621][  0]SourceControl: Source control is disabled
+[2019.09.25-15.46.55:622][  0]SourceControl: Source control is disabled
+[2019.09.25-15.46.55:791][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.25-15.46.55:947][  0]LogOcInput: OculusInput pre-init called
+[2019.09.25-15.46.56:015][  0]LogEngine: Initializing Engine...
+[2019.09.25-15.46.56:016][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.25-15.46.56:017][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.09.25-15.46.56:017][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.09.25-15.46.56:017][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.09.25-15.46.56:017][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.09.25-15.46.56:250][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.25-15.46.56:267][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.25-15.46.56:302][  0]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.25-15.46.56:319][  0]LogInit: FAudioDevice initialized.
+[2019.09.25-15.46.56:320][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.25-15.46.56:391][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Charlie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.09.25-15.46.56:396][  0]LogInit: Texture streaming: Enabled
+[2019.09.25-15.46.56:411][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.25-15.46.56:420][  0]LogInit: Transaction tracking system initialized
+[2019.09.25-15.46.56:436][  0]BlueprintLog: New page: Editor Load
+[2019.09.25-15.46.56:495][  0]LocalizationService: Localization service is disabled
+[2019.09.25-15.46.56:720][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.25-15.46.56:720][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.25-15.46.56:720][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.09.25-15.46.56:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.09.25-15.46.56:720][  0]LogFileCache: Scanning file cache for directory 'A:/Unreal Projects/TeamFellowship/Content/' took 0.01s
+[2019.09.25-15.46.56:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.09.25-15.46.56:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.09.25-15.46.56:720][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.09.25-15.46.56:817][  0]SourceControl: Source control is disabled
+[2019.09.25-15.46.56:817][  0]Cmd: MAP LOAD FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.25-15.46.56:817][  0]LightingResults: New page: Lighting Build
+[2019.09.25-15.46.56:820][  0]MapCheck: New page: Map Check
+[2019.09.25-15.46.56:820][  0]LightingResults: New page: Lighting Build
+[2019.09.25-15.46.57:039][  0]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.25-15.46.57:053][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.25-15.46.57:078][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.25-15.46.57:110][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 31.459ms to complete.
+[2019.09.25-15.46.57:110][  0]LogFileHelpers: Loading map 'MainLevel' took 0.293
+[2019.09.25-15.46.57:237][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-15.46.57:244][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-15.46.57:252][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-15.46.57:259][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-15.46.57:264][  0]LogCollectionManager: Loaded 0 collections in 0.001079 seconds
+[2019.09.25-15.46.57:307][  0]LogFileCache: Scanning file cache for directory 'A:/Unreal Projects/TeamFellowship/Saved/Collections/' took 0.01s
+[2019.09.25-15.46.57:307][  0]LogFileCache: Scanning file cache for directory 'A:/Unreal Projects/TeamFellowship/Content/Developers/Charlie/Collections/' took 0.01s
+[2019.09.25-15.46.57:307][  0]LogFileCache: Scanning file cache for directory 'A:/Unreal Projects/TeamFellowship/Content/Collections/' took 0.01s
+[2019.09.25-15.46.57:307][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.25-15.46.57:316][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2572 classes and 603 folders.
+[2019.09.25-15.46.57:321][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.25-15.46.57:349][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.25-15.46.57:353][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.09.25-15.46.57:381][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.25-15.46.57:384][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.25-15.46.57:391][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.25-15.46.57:465][  0]LogRenderer: Reallocating scene render targets to support 1132x576 Format 10 NumSamples 1 (Frame:1).
+[2019.09.25-15.46.57:513][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.25-15.46.57:620][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.25-15.46.57:620][  0]LogLoad: (Engine Initialization) Total time: 7.30 seconds
+[2019.09.25-15.46.57:620][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.25-15.46.57:656][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.25-15.46.57:703][  1]LogAssetRegistry: Asset discovery search completed in 3.9092 seconds
+[2019.09.25-15.46.57:705][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.09.25-15.46.57:705][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2019.09.25-15.46.59:027][  5]LogSlate: Took 0.000447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.25-15.47.02:029][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.25-15.47.02:030][ 14]LogSlate: Window 'Message Log' being destroyed
+[2019.09.25-15.47.02:033][ 14]LogSlate: Window 'Message Log' being destroyed
+[2019.09.25-15.47.02:966][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.25-15.47.03:049][133]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.25-15.47.03:060][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.25-15.47.03:072][133]PIE: New page: PIE session: MainLevel (25 Sep 2019 17:47:03)
+[2019.09.25-15.47.03:072][133]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.25-15.47.03:077][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004562s)
+[2019.09.25-15.47.03:077][133]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.25-15.47.03:077][133]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2019.09.25-15.47.03:077][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.005334s)
+[2019.09.25-15.47.03:114][133]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.25-15.47.03:130][133]LogInit: FAudioDevice initialized.
+[2019.09.25-15.47.03:224][133]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.25-15.47.03:226][133]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.25-16.47.03
+[2019.09.25-15.47.03:227][133]LogWorld: Bringing up level for play took: 0.001027
+[2019.09.25-15.47.03:242][133]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.09.25-15.47.03:242][133]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.25-15.47.03:243][133]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.25-15.47.03:243][133]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.25-15.47.03:245][133]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.25-15.47.03:245][133]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.507
+[2019.09.25-15.47.03:282][134]LogRenderer: Reallocating scene render targets to support 1132x1028 Format 10 NumSamples 1 (Frame:1).
+[2019.09.25-15.47.04:792][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-15.47.04:826][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.25-15.47.04:846][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-15.47.04:895][311]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.09.25-15.47.06:377][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.25-15.47.09:503][843]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/ExamineUI.ExamineUI
+[2019.09.25-15.47.09:921][843]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.09.25-15.47.10:673][843]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.25-15.47.13:732][202]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-15.47.13:760][203]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.09.25-15.47.13:760][203]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.25-15.47.20:290][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ExamineUI" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/UI/ExamineUI.uasset" SILENT=true
+[2019.09.25-15.47.20:296][965]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/ExamineUI6A427C44483BA25B7BF740B99CF44323.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/UI/ExamineUI.uasset'
+[2019.09.25-15.47.24:366][446]LogAssetEditorManager: Opening Asset editor for Material /Game/Blueprints/Examine/MAT_Render.MAT_Render
+[2019.09.25-15.47.24:369][446]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-15.47.24:641][446]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-15.47.24:649][446]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-15.47.24:671][446]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.09.25-15.47.24:671][446]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.25-15.47.24:671][446]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.25-15.47.24:671][446]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.25-15.47.24:711][446]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.25-15.47.24:836][447]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.25-15.47.24:836][447]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.25-15.47.24:910][455]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.09.25-15.47.24:958][461]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.09.25-15.47.25:052][472]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.09.25-15.47.25:101][478]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.09.25-15.47.25:214][491]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.25-15.47.25:266][497]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.25-15.47.25:273][498]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.25-15.47.25:326][504]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.25-15.47.25:372][509]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.25-15.47.25:400][512]MaterialEditorStats: Default UI Pixel Shader: 18 instructions
+[2019.09.25-15.47.25:400][512]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2019.09.25-15.47.25:400][512]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2019.09.25-15.47.25:400][512]MaterialEditorStats: Texture samplers: 2/16
+[2019.09.25-15.47.25:400][512]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.25-15.47.25:400][512]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.25-15.47.26:038][587]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-15.47.26:052][587]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.09.25-15.47.26:052][587]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.25-15.47.26:052][587]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.25-15.47.26:052][587]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.25-15.47.26:197][602]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.09.25-15.47.26:231][606]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.09.25-15.47.26:308][615]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.09.25-15.47.26:366][621]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.09.25-15.47.26:374][622]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.25-15.47.26:396][625]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.25-15.47.26:474][634]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.25-15.47.26:515][639]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.25-15.47.26:523][640]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.25-15.47.26:636][653]MaterialEditorStats: Default UI Pixel Shader: 18 instructions
+[2019.09.25-15.47.26:636][653]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2019.09.25-15.47.26:636][653]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2019.09.25-15.47.26:636][653]MaterialEditorStats: Texture samplers: 2/16
+[2019.09.25-15.47.26:636][653]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.25-15.47.26:636][653]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.25-15.47.26:881][682]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-15.47.26:901][682]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-15.47.26:914][682]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-15.47.26:924][682]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.25-15.47.26:924][682]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.25-15.47.26:924][682]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.09.25-15.47.26:924][682]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.09.25-15.47.27:097][699]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.09.25-15.47.27:106][700]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.09.25-15.47.27:129][703]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.09.25-15.47.27:137][704]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.25-15.47.27:248][717]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.25-15.47.27:290][722]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.25-15.47.27:485][742]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.09.25-15.47.27:522][746]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.09.25-15.47.27:634][759]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.09.25-15.47.27:644][760]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.09.25-15.47.27:703][767]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.25-15.47.27:797][777]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.25-15.47.27:834][781]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.25-15.47.27:865][785]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.25-15.47.27:976][797]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.25-15.47.28:087][810]MaterialEditorStats: Default UI Pixel Shader: 19 instructions
+[2019.09.25-15.47.28:087][810]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2019.09.25-15.47.28:087][810]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2019.09.25-15.47.28:087][810]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.25-15.47.28:087][810]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.25-15.47.28:087][810]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.25-15.47.28:195][823]LogMaterialEditor: Applying material MAT_Render
+[2019.09.25-15.47.28:707][823]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-15.47.28:744][823]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.25-15.47.28:744][823]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.25-15.47.28:744][823]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.09.25-15.47.28:744][823]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.09.25-15.47.28:848][823]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.09.25-15.47.28:864][823]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.09.25-15.47.28:871][823]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-15.47.28:889][823]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-15.47.28:900][823]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.09.25-15.47.28:936][823]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.09.25-15.47.28:972][823]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.09.25-15.47.29:032][828]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.09.25-15.47.29:058][831]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.25-15.47.29:268][855]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.09.25-15.47.29:316][861]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.09.25-15.47.29:385][869]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.09.25-15.47.29:427][874]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.09.25-15.47.29:476][880]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.09.25-15.47.29:534][887]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.09.25-15.47.29:585][893]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.09.25-15.47.29:617][897]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.09.25-15.47.29:692][905]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.09.25-15.47.29:709][907]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.25-15.47.29:755][912]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.25-15.47.29:901][929]LogMaterialEditor: Saving and Compiling material MAT_Render
+[2019.09.25-15.47.31:518][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Examine/MAT_Render" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/Blueprints/Examine/MAT_Render.uasset" SILENT=true
+[2019.09.25-15.47.31:528][929]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/MAT_Render4FC244D343A675231958B7A41F5F09D9.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/Blueprints/Examine/MAT_Render.uasset'
+[2019.09.25-15.47.31:542][929]MaterialEditorStats: Default UI Pixel Shader: 19 instructions
+[2019.09.25-15.47.31:542][929]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2019.09.25-15.47.31:542][929]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2019.09.25-15.47.31:542][929]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.25-15.47.31:542][929]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.25-15.47.31:542][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.25-15.47.34:715][304]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.25-15.47.34:729][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.25-15.47.34:729][304]PIE: New page: PIE session: MainLevel (25 Sep 2019 17:47:34)
+[2019.09.25-15.47.34:729][304]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.25-15.47.34:732][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002955s)
+[2019.09.25-15.47.34:733][304]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.25-15.47.34:733][304]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2019.09.25-15.47.34:733][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003689s)
+[2019.09.25-15.47.34:777][304]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.25-15.47.34:793][304]LogInit: FAudioDevice initialized.
+[2019.09.25-15.47.34:826][304]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.25-15.47.34:828][304]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.25-16.47.34
+[2019.09.25-15.47.34:828][304]LogWorld: Bringing up level for play took: 0.000812
+[2019.09.25-15.47.34:839][304]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.25-15.47.34:839][304]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.25-15.47.34:839][304]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.25-15.47.34:841][304]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.25-15.47.34:841][304]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.103
+[2019.09.25-15.47.36:630][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-15.47.36:661][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.25-15.47.36:689][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-15.47.36:737][519]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.09.25-15.58.28:690][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.25-15.58.43:607][313]LogMetaData: Removing '/Game/UI/RTT_UI.RTT_UI_C' ref from Metadata '/Game/UI/ExamineUI.PackageMetaData'
+[2019.09.25-15.58.43:607][313]LogMetaData: Removing '/Game/UI/RTT_UI.RTT_UI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/ExamineUI.PackageMetaData'
+[2019.09.25-15.58.43:607][313]LogMetaData: Removing '/Game/UI/RTT_UI.RTT_UI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/ExamineUI.PackageMetaData'
+[2019.09.25-15.58.43:607][313]LogMetaData: Removing '/Game/UI/RTT_UI.RTT_UI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/ExamineUI.PackageMetaData'
+[2019.09.25-15.58.43:607][313]LogMetaData: Removing '/Game/UI/RTT_UI.SKEL_RTT_UI_C' ref from Metadata '/Game/UI/ExamineUI.PackageMetaData'
+[2019.09.25-15.58.43:632][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/RTT_UI" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/UI/RTT_UI.uasset" SILENT=true
+[2019.09.25-15.58.43:637][313]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/RTT_UI7ADD9220450D2C74FC060DBA4AD74D10.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/UI/RTT_UI.uasset'
+[2019.09.25-15.58.43:831][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/PlayerCharacter.uasset" SILENT=true
+[2019.09.25-15.58.43:866][313]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/PlayerCharacter01A5C04E4AE928A64EF4E4862CAA9CC3.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/PlayerCharacter.uasset'
+[2019.09.25-15.59.03:687][654]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Examine_UI.Examine_UI
+[2019.09.25-16.00.34:415][750]BlueprintLog: New page: Compile Examine_UI
+[2019.09.25-16.00.51:820][717]LogSlate: Window 'Examine_UI*' being destroyed
+[2019.09.25-16.00.54:773][ 48]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerCharacter.PlayerCharacter
+[2019.09.25-16.00.55:190][ 49]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.25-16.01.07:807][512]LogSlate: Took 0.008500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.09.25-16.01.11:640][808]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.09.25-16.01.14:921][172]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.09.25-16.01.14:925][172]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.09.25-16.01.20:900][859]BlueprintLog: New page: Compile PlayerCharacter
+[2019.09.25-16.01.21:579][904]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.25-16.01.21:601][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.25-16.01.21:601][904]PIE: New page: PIE session: MainLevel (25 Sep 2019 18:01:21)
+[2019.09.25-16.01.21:601][904]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.25-16.01.21:604][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003261s)
+[2019.09.25-16.01.21:605][904]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.25-16.01.21:605][904]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2019.09.25-16.01.21:605][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003964s)
+[2019.09.25-16.01.21:653][904]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.25-16.01.21:670][904]LogInit: FAudioDevice initialized.
+[2019.09.25-16.01.21:679][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-16.01.21:722][904]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.25-16.01.21:723][904]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.25-17.01.21
+[2019.09.25-16.01.21:723][904]LogWorld: Bringing up level for play took: 0.000849
+[2019.09.25-16.01.21:734][904]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.25-16.01.21:734][904]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.25-16.01.21:734][904]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.25-16.01.21:736][904]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.25-16.01.21:739][904]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.997
+[2019.09.25-16.01.21:761][904]LogRenderer: Reallocating scene render targets to support 1292x1028 Format 10 NumSamples 1 (Frame:1).
+[2019.09.25-16.01.23:140][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-16.01.23:153][ 39]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.25-16.01.23:181][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.25-16.01.23:239][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.09.25-16.01.32:385][845]LogEditorTransaction: Undo Edit Top
+[2019.09.25-16.01.32:397][845]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-16.01.32:415][845]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.25-16.01.32:415][845]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.25-16.01.32:415][845]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.09.25-16.01.32:415][845]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.09.25-16.01.32:933][874]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.09.25-16.01.32:933][874]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.09.25-16.01.32:961][876]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.09.25-16.01.32:961][876]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.25-16.01.33:059][883]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.25-16.01.33:089][885]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.25-16.01.33:300][897]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.09.25-16.01.33:317][897]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.09.25-16.01.33:419][904]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.09.25-16.01.33:472][907]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.09.25-16.01.33:473][907]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.25-16.01.33:564][913]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.25-16.01.33:623][917]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.25-16.01.33:623][917]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.25-16.01.33:710][923]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.25-16.01.33:815][931]MaterialEditorStats: Default UI Pixel Shader: 19 instructions
+[2019.09.25-16.01.33:815][931]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2019.09.25-16.01.33:815][931]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2019.09.25-16.01.33:815][931]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.25-16.01.33:815][931]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.25-16.01.33:815][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.25-16.01.33:974][946]BlueprintLog: New page: Compile Examine_UI
+[2019.09.25-16.01.34:458][982]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.25-16.01.34:478][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.25-16.01.34:478][982]PIE: New page: PIE session: MainLevel (25 Sep 2019 18:01:34)
+[2019.09.25-16.01.34:478][982]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.25-16.01.34:481][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002734s)
+[2019.09.25-16.01.34:481][982]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.25-16.01.34:481][982]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2019.09.25-16.01.34:481][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003364s)
+[2019.09.25-16.01.34:528][982]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.25-16.01.34:545][982]LogInit: FAudioDevice initialized.
+[2019.09.25-16.01.34:554][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-16.01.34:596][982]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.25-16.01.34:598][982]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.25-17.01.34
+[2019.09.25-16.01.34:598][982]LogWorld: Bringing up level for play took: 0.000833
+[2019.09.25-16.01.34:609][982]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.25-16.01.34:609][982]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.25-16.01.34:609][982]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.25-16.01.34:611][982]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.25-16.01.34:612][982]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.13
+[2019.09.25-16.01.35:642][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-16.01.35:653][ 69]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.25-16.01.35:683][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.25-16.01.35:759][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.09.25-16.01.43:456][751]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.25-16.01.43:479][751]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.25-16.01.43:482][751]LogPlayLevel: [PlayLevel] Compiling Examine_UI before play...
+[2019.09.25-16.01.43:649][751]LogPlayLevel: PlayLevel: Blueprint regeneration took 170 ms (1 blueprints)
+[2019.09.25-16.01.43:649][751]PIE: New page: PIE session: MainLevel (25 Sep 2019 18:01:43)
+[2019.09.25-16.01.43:649][751]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.25-16.01.43:652][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003332s)
+[2019.09.25-16.01.43:653][751]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.25-16.01.43:653][751]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2019.09.25-16.01.43:653][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004056s)
+[2019.09.25-16.01.43:699][751]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.25-16.01.43:714][751]LogInit: FAudioDevice initialized.
+[2019.09.25-16.01.43:723][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-16.01.43:769][751]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.25-16.01.43:771][751]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.25-17.01.43
+[2019.09.25-16.01.43:771][751]LogWorld: Bringing up level for play took: 0.000904
+[2019.09.25-16.01.43:782][751]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.25-16.01.43:782][751]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.25-16.01.43:782][751]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.25-16.01.43:784][751]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.25-16.01.43:785][751]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 1.044
+[2019.09.25-16.01.44:922][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.25-16.01.44:933][835]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.25-16.01.44:965][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.25-16.01.45:048][837]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.09.25-16.01.46:760][992]LogEditorTransaction: Undo Edit Top
+[2019.09.25-16.01.46:766][992]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-16.01.46:783][992]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.25-16.01.46:783][992]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.25-16.01.46:783][992]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.09.25-16.01.46:783][992]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.09.25-16.01.46:928][  0]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.09.25-16.01.46:947][  1]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.09.25-16.01.47:060][  6]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.09.25-16.01.47:082][  7]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.25-16.01.47:082][  7]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.25-16.01.47:134][ 10]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.25-16.01.47:397][ 26]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.09.25-16.01.47:425][ 28]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.09.25-16.01.47:439][ 29]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.09.25-16.01.47:538][ 36]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.09.25-16.01.47:567][ 38]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.25-16.01.47:595][ 40]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.25-16.01.47:696][ 47]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.25-16.01.47:711][ 48]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.25-16.01.47:711][ 48]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.25-16.01.47:725][ 49]LogEditorTransaction: Undo Edit Left
+[2019.09.25-16.01.47:735][ 49]LogMaterial: Display: Missing cached shader map for material MAT_Render, compiling. 
+[2019.09.25-16.01.47:746][ 49]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.25-16.01.47:825][ 54]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.25-16.01.47:825][ 54]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.09.25-16.01.47:852][ 56]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.09.25-16.01.47:906][ 60]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.09.25-16.01.47:969][ 64]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.09.25-16.01.48:012][ 67]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.09.25-16.01.48:028][ 68]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.25-16.01.48:041][ 69]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.25-16.01.48:121][ 75]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.25-16.01.48:327][ 88]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.09.25-16.01.48:359][ 90]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.09.25-16.01.48:415][ 94]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.09.25-16.01.48:473][ 98]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.09.25-16.01.48:502][100]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.25-16.01.48:557][104]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.25-16.01.48:627][109]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.25-16.01.48:655][111]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.25-16.01.48:670][112]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.25-16.01.48:801][121]MaterialEditorStats: Default UI Pixel Shader: 19 instructions
+[2019.09.25-16.01.48:801][121]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2019.09.25-16.01.48:801][121]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2019.09.25-16.01.48:801][121]MaterialEditorStats: Texture samplers: 3/16
+[2019.09.25-16.01.48:801][121]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.25-16.01.48:801][121]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.25-16.01.48:968][137]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.25-16.01.48:987][137]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.25-16.01.48:990][137]LogPlayLevel: [PlayLevel] Compiling Examine_UI before play...
+[2019.09.25-16.01.50:295][137]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.167 s
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: 
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: SObjectWidget for 'RTT_UI_C /Engine/Transient.World_6:Examine_UI_C_21.WidgetTree_0.RTT_UI' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: Stack: 
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: [Callstack] 0x000007fed9b671f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: [Callstack] 0x000007fed98a0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: [Callstack] 0x000007fed98bb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: [Callstack] 0x000007fec02f9a63 UE4Editor-UMG.dll!UnknownFunction []
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: [Callstack] 0x000007fed938f39a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: [Callstack] 0x000007fed7a8fc17 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: [Callstack] 0x000007fed7a93419 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: [Callstack] 0x000007fec03c1c4b UE4Editor-UMG.dll!UnknownFunction []
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: [Callstack] 0x000007fed8042ad1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.25-16.01.50:296][137]LogOutputDevice: Error: [Callstack] 0x000007fed801756e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000007fed7f93f54 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000007fed7f934ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000007fec1da718c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000007fec1d8f701 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000007fec1dae536 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000007fec17c6b41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000007fec20bf666 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000000013fd75cbd UE4Editor.exe!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000000013fd85b3c UE4Editor.exe!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000000013fd85bba UE4Editor.exe!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000000013fd93dac UE4Editor.exe!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000000013fd95aaa UE4Editor.exe!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000000007761556d kernel32.dll!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: [Callstack] 0x000000007787385d ntdll.dll!UnknownFunction []
+[2019.09.25-16.01.50:297][137]LogOutputDevice: Error: 
+[2019.09.25-16.01.50:299][137]LogStats:                SubmitErrorReport -  0.000 s

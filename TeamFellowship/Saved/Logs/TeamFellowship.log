@@ -1,0 +1,1836 @@
+﻿Log file open, 09/26/19 08:26:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TeamFellowship
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.505319
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.343s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU: Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epiclocale=en-GB
+LogInit: Base Directory: A:/Program Files/Epic/Unreal/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.09.26-07.26.36:996][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.26-07.26.36:996][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.26-07.26.37:056][  0]LogHAL: Display: Platform has ~ 16 GB [17115426816 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.26-07.26.37:056][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.09.26-07.26.37:056][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.26-07.26.37:074][  0]LogInit: Computer: CHARLIE-PC
+[2019.09.26-07.26.37:074][  0]LogInit: User: Charlie
+[2019.09.26-07.26.37:074][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.26-07.26.37:074][  0]LogInit: High frequency timer resolution =3.416025 MHz
+[2019.09.26-07.26.37:075][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.26-07.26.37:075][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.26-07.26.37:075][  0]LogMemory: Process Physical Memory: 102.21 MB used, 102.21 MB peak
+[2019.09.26-07.26.37:075][  0]LogMemory: Process Virtual Memory: 92.71 MB used, 92.71 MB peak
+[2019.09.26-07.26.37:075][  0]LogMemory: Physical Memory: 5172.85 MB used,  11149.70 MB free, 16322.54 MB total
+[2019.09.26-07.26.37:075][  0]LogMemory: Virtual Memory: 489.81 MB used,  11149.70 MB free, 8388608.00 MB total
+[2019.09.26-07.26.37:371][  0]LogInit: Using OS detected language (en-GB).
+[2019.09.26-07.26.37:371][  0]LogInit: Using OS detected locale (en-GB).
+[2019.09.26-07.26.37:375][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.09.26-07.26.38:159][  0]LogStreaming: Display: Took  0.788s to InitEngineTextLocalization.
+[2019.09.26-07.26.38:159][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.09.26-07.26.38:159][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.09.26-07.26.38:159][  0]LogInit: Setting process to DPI aware
+[2019.09.26-07.26.38:313][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.26-07.26.38:313][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.26-07.26.39:965][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.26-07.26.39:965][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.26-07.26.40:016][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.09.26-07.26.40:016][  0]LogD3D11RHI:       6036/0/7905 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.26-07.26.40:016][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.26-07.26.40:021][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.26-07.26.40:021][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.26-07.26.40:021][  0]LogWindows: EnumDisplayDevices:
+[2019.09.26-07.26.40:021][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.09.26-07.26.40:021][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.09.26-07.26.40:022][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.09.26-07.26.40:022][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.09.26-07.26.40:022][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2019.09.26-07.26.40:022][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.09.26-07.26.40:022][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.09.26-07.26.40:022][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.09.26-07.26.40:022][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.09.26-07.26.40:022][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2019.09.26-07.26.40:022][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2019.09.26-07.26.40:022][  0]LogRHI: Texture pool is 4225 MB (70% of 6036 MB)
+[2019.09.26-07.26.40:040][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.26-07.26.40:055][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.09.26-07.26.40:149][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../../../Unreal Projects/TeamFellowship/Intermediate/Shaders/WorkingDirectory/10504/).
+[2019.09.26-07.26.40:149][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Charlie/AppData/Local/Temp/UnrealShaderWorkingDir/E8455A814C775AFBE756A59F3A5FFE43/'.
+[2019.09.26-07.26.41:010][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.09.26-07.26.41:055][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.09.26-07.26.41:101][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.09.26-07.26.41:172][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.09.26-07.26.41:494][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.09.26-07.26.41:644][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.09.26-07.26.41:671][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.09.26-07.26.41:700][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.09.26-07.26.41:787][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:902][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.09.26-07.26.41:926][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.09.26-07.26.42:097][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.09.26-07.26.42:097][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.09.26-07.26.42:153][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.09.26-07.26.42:153][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.09.26-07.26.42:219][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.09.26-07.26.42:315][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.09.26-07.26.42:378][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.09.26-07.26.42:488][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.09.26-07.26.42:592][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.09.26-07.26.42:592][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.26-07.26.43:083][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.26-07.26.43:083][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.26-07.26.43:083][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.26-07.26.44:638][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.26-07.26.44:904][  0]LogDerivedDataCache: Loaded boot cache 0.27s 71MB C:/Users/Charlie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.09.26-07.26.44:904][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Charlie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.09.26-07.26.44:904][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../Unreal Projects/TeamFellowship/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.26-07.26.44:904][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.26-07.26.44:904][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../Unreal Projects/TeamFellowship/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.26-07.26.44:904][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.26-07.26.45:010][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.26-07.26.45:022][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Charlie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.26-07.26.45:022][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.26-07.26.45:022][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.26-07.26.45:045][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.26-07.26.45:046][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.26-07.26.45:055][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.26-07.26.45:619][  0]LogAssetRegistry: FAssetRegistry took 0.0336 seconds to start up
+[2019.09.26-07.26.46:095][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.26-07.26.46:782][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.09.26-07.26.46:863][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.09.26-07.26.46:863][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.26-07.26.46:863][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.26-07.26.46:863][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.09.26-07.26.46:943][  0]LogNetVersion: TeamFellowship 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 626393079)
+[2019.09.26-07.26.47:728][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.195836 seconds
+[2019.09.26-07.26.47:735][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.09.26-07.26.47:735][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.09.26-07.26.47:735][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.26-07.27.05:601][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.26-07.27.05:648][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.26-07.27.06:299][  0]SourceControl: Source control is disabled
+[2019.09.26-07.27.06:299][  0]SourceControl: Source control is disabled
+[2019.09.26-07.27.06:332][  0]SourceControl: Source control is disabled
+[2019.09.26-07.27.06:353][  0]SourceControl: Source control is disabled
+[2019.09.26-07.27.07:191][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.26-07.27.07:649][  0]LogOcInput: OculusInput pre-init called
+[2019.09.26-07.27.08:194][  0]LogEngine: Initializing Engine...
+[2019.09.26-07.27.08:195][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.26-07.27.08:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.09.26-07.27.08:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.09.26-07.27.08:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.09.26-07.27.08:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.09.26-07.27.08:432][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.26-07.27.08:702][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.26-07.27.08:754][  0]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-07.27.08:783][  0]LogInit: FAudioDevice initialized.
+[2019.09.26-07.27.08:784][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.26-07.27.08:859][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Charlie/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.09.26-07.27.08:864][  0]LogInit: Texture streaming: Enabled
+[2019.09.26-07.27.08:951][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.26-07.27.09:032][  0]LogInit: Transaction tracking system initialized
+[2019.09.26-07.27.09:203][  0]BlueprintLog: New page: Editor Load
+[2019.09.26-07.27.09:821][  0]LocalizationService: Localization service is disabled
+[2019.09.26-07.27.11:445][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.26-07.27.11:445][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.26-07.27.11:467][  0]LogFileCache: Scanning file cache for directory 'A:/Unreal Projects/TeamFellowship/Content/' took 0.02s
+[2019.09.26-07.27.11:467][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.09.26-07.27.11:467][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.09.26-07.27.11:467][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.09.26-07.27.11:467][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.09.26-07.27.11:467][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.09.26-07.27.13:262][  0]SourceControl: Source control is disabled
+[2019.09.26-07.27.13:263][  0]Cmd: MAP LOAD FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.26-07.27.13:263][  0]LightingResults: New page: Lighting Build
+[2019.09.26-07.27.13:285][  0]MapCheck: New page: Map Check
+[2019.09.26-07.27.13:285][  0]LightingResults: New page: Lighting Build
+[2019.09.26-07.27.15:175][  0]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-07.27.15:319][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.26-07.27.15:359][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.26-07.27.15:393][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 33.839ms to complete.
+[2019.09.26-07.27.15:393][  0]LogFileHelpers: Loading map 'MainLevel' took 2.130
+[2019.09.26-07.27.16:089][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.27.16:117][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.27.16:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.27.16:154][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.27.16:592][  0]LogCollectionManager: Loaded 0 collections in 0.004348 seconds
+[2019.09.26-07.27.16:791][  0]LogFileCache: Scanning file cache for directory 'A:/Unreal Projects/TeamFellowship/Saved/Collections/' took 0.01s
+[2019.09.26-07.27.16:792][  0]LogFileCache: Scanning file cache for directory 'A:/Unreal Projects/TeamFellowship/Content/Developers/Charlie/Collections/' took 0.01s
+[2019.09.26-07.27.16:792][  0]LogFileCache: Scanning file cache for directory 'A:/Unreal Projects/TeamFellowship/Content/Collections/' took 0.01s
+[2019.09.26-07.27.16:792][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.26-07.27.16:822][  0]LogContentBrowser: Native class hierarchy populated in 0.0286 seconds. Added 2572 classes and 603 folders.
+[2019.09.26-07.27.16:920][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2019.09.26-07.27.18:195][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.09.26-07.27.18:431][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2019.09.26-07.27.19:058][  0]LogSlate: Took 0.016282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.26-07.27.19:074][  0]LogSlate: Took 0.013948 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.26-07.27.19:132][  0]LogSlate: Took 0.011668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.26-07.27.19:856][  0]LogRenderer: Reallocating scene render targets to support 1132x576 Format 10 NumSamples 1 (Frame:1).
+[2019.09.26-07.27.20:710][  0]LogSlate: Took 0.027860 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.26-07.27.21:012][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.09.26-07.27.21:012][  0]LogLoad: (Engine Initialization) Total time: 86.17 seconds
+[2019.09.26-07.27.21:012][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.26-07.27.21:113][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.26-07.27.21:600][  2]LogAssetRegistry: Asset discovery search completed in 36.0029 seconds
+[2019.09.26-07.27.21:602][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.09.26-07.27.21:602][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2019.09.26-07.27.22:568][  5]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.26-07.29.14:717][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-07.29.16:318][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-07.29.21:174][315]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Examine_UI.Examine_UI
+[2019.09.26-07.29.22:739][315]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0023 seconds. Added 116 classes and 0 folders.
+[2019.09.26-07.29.24:888][315]LogSlate: Took 0.016248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.26-07.29.29:899][580]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-07.29.29:947][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-07.29.30:018][580]PIE: New page: PIE session: MainLevel (26 Sep 2019 09:29:29)
+[2019.09.26-07.29.30:018][580]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-07.29.30:076][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057086s)
+[2019.09.26-07.29.30:077][580]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-07.29.30:077][580]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2019.09.26-07.29.30:077][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.058863s)
+[2019.09.26-07.29.30:241][580]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-07.29.30:286][580]LogInit: FAudioDevice initialized.
+[2019.09.26-07.29.30:361][580]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-07.29.30:363][580]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-08.29.30
+[2019.09.26-07.29.30:401][580]LogWorld: Bringing up level for play took: 0.039343
+[2019.09.26-07.29.30:562][580]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 10 classes and 0 folders.
+[2019.09.26-07.29.30:571][580]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-07.29.30:571][580]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-07.29.30:571][580]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-07.29.30:698][580]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-07.29.30:699][580]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.027
+[2019.09.26-07.29.30:870][581]LogRenderer: Reallocating scene render targets to support 1132x1028 Format 10 NumSamples 1 (Frame:1).
+[2019.09.26-07.29.32:247][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.29.32:362][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-07.29.32:413][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.29.32:439][656]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.09.26-07.29.33:717][727]LogSlate: Window 'Examine_UI' being destroyed
+[2019.09.26-07.29.34:991][867]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-07.29.35:004][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-07.29.35:004][867]PIE: New page: PIE session: MainLevel (26 Sep 2019 09:29:35)
+[2019.09.26-07.29.35:004][867]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-07.29.35:007][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003088s)
+[2019.09.26-07.29.35:008][867]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-07.29.35:008][867]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2019.09.26-07.29.35:008][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003739s)
+[2019.09.26-07.29.35:052][867]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-07.29.35:068][867]LogInit: FAudioDevice initialized.
+[2019.09.26-07.29.35:098][867]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-07.29.35:100][867]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-08.29.35
+[2019.09.26-07.29.35:100][867]LogWorld: Bringing up level for play took: 0.000823
+[2019.09.26-07.29.35:112][867]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-07.29.35:112][867]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-07.29.35:112][867]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-07.29.35:116][867]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-07.29.35:116][867]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.445
+[2019.09.26-07.29.36:746][ 54]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-07.29.38:274][234]LogBlueprintUserMessages: [Examine_UI_C_0] 45.0
+[2019.09.26-07.29.38:700][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.29.38:733][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-07.29.38:784][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.29.38:806][287]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.09.26-07.29.41:490][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-07.30.52:453][ 54]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Charlie\Desktop\Placeholder\arrow.png)
+[2019.09.26-07.30.52:546][ 54]LogTexture: Display: Building textures: arrow (AutoDXT, 400X400)
+[2019.09.26-07.30.56:750][ 67]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Placeholder/arrow.arrow
+[2019.09.26-07.30.56:779][ 67]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.09.26-07.31.08:539][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Placeholder/arrow" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/Placeholder/arrow.uasset" SILENT=true
+[2019.09.26-07.31.08:678][433]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/arrowA4D3D550402DF8B3DC3D8EA81884358C.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/Placeholder/arrow.uasset'
+[2019.09.26-07.31.24:466][552]LogSlate: Window 'Save Asset As' being destroyed
+[2019.09.26-07.31.29:385][552]LogSlate: Window 'Message' being destroyed
+[2019.09.26-07.31.31:532][552]LogSlate: Window 'Message' being destroyed
+[2019.09.26-07.31.32:766][552]LogSlate: Window 'Message' being destroyed
+[2019.09.26-07.31.38:971][773]LogSlate: Window 'Save Asset As' being destroyed
+[2019.09.26-07.31.39:746][773]LogSlate: Window 'Message' being destroyed
+[2019.09.26-07.31.41:911][957]LogMaterial: Display: Missing cached shader map for material arrow, compiling. 
+[2019.09.26-07.31.42:117][958]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.09.26-07.31.42:117][958]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.26-07.31.43:906][109]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-07.31.53:999][166]Cmd: TRANSACTION UNDO
+[2019.09.26-07.31.53:999][166]LogEditorTransaction: Undo Changed arrow to use the UI material domain
+[2019.09.26-07.31.54:002][166]LogMaterial: Display: Missing cached shader map for material arrow, compiling. 
+[2019.09.26-07.31.54:062][166]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.09.26-07.31.54:062][166]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.26-07.31.54:062][166]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.26-07.31.54:874][235]Cmd: TRANSACTION UNDO
+[2019.09.26-07.31.54:874][235]LogEditorTransaction: Undo Edit Image
+[2019.09.26-07.31.58:396][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-07.32.01:000][815]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.26-07.32.15:659][932]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-07.32.22:228][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Examine_UI" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/UI/Examine_UI.uasset" SILENT=true
+[2019.09.26-07.32.22:400][604]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/Examine_UI06BC893141C765F1D7AC37B61945095D.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/UI/Examine_UI.uasset'
+[2019.09.26-07.32.24:195][772]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Charlie\Desktop\Placeholder\arrow.png)
+[2019.09.26-07.32.24:201][772]LogTexture: Display: Building textures: arrow (AutoDXT, 400X400)
+[2019.09.26-07.32.29:039][317]LogMaterial: Display: Missing cached shader map for material arrow_Mat, compiling. 
+[2019.09.26-07.32.29:095][318]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.09.26-07.32.29:095][318]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.26-07.32.29:095][318]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.26-07.32.31:018][542]LogAssetEditorManager: Opening Asset editor for Material /Game/Placeholder/arrow_Mat.arrow_Mat
+[2019.09.26-07.32.31:040][542]LogMaterial: Display: Missing cached shader map for material arrow_Mat, compiling. 
+[2019.09.26-07.32.31:072][542]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.09.26-07.32.31:073][542]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-07.32.31:852][542]LogMaterial: Display: Missing cached shader map for material arrow_Mat, compiling. 
+[2019.09.26-07.32.31:903][542]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.09.26-07.32.31:903][542]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-07.32.31:903][542]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.26-07.32.31:906][542]LogMaterial: Display: Missing cached shader map for material arrow_Mat, compiling. 
+[2019.09.26-07.32.31:949][542]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.26-07.32.32:290][543]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.09.26-07.32.32:290][543]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.09.26-07.32.32:290][543]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.09.26-07.32.32:290][543]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-07.32.32:290][543]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.26-07.32.32:291][543]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.26-07.32.32:291][543]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.09.26-07.32.32:346][544]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.09.26-07.32.32:443][555]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.09.26-07.32.32:475][558]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.09.26-07.32.32:482][559]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.09.26-07.32.32:505][561]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.26-07.32.32:607][572]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.26-07.32.32:772][591]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-07.32.32:879][604]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.09.26-07.32.32:904][607]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.09.26-07.32.32:998][618]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.09.26-07.32.33:106][631]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.09.26-07.32.33:188][641]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.26-07.32.33:309][655]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.26-07.32.33:351][660]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.26-07.32.33:427][669]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.26-07.32.33:548][683]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.26-07.32.33:688][699]MaterialEditorStats: Base pass shader: 102 instructions
+[2019.09.26-07.32.33:688][699]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2019.09.26-07.32.33:688][699]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.09.26-07.32.33:688][699]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-07.32.33:689][699]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-07.32.33:689][699]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-07.32.39:379][379]LogMaterial: Display: Missing cached shader map for material arrow_Mat, compiling. 
+[2019.09.26-07.32.39:397][379]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.09.26-07.32.39:397][379]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-07.32.39:397][379]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.26-07.32.39:397][379]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.26-07.32.39:397][379]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.26-07.32.39:562][386]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.26-07.32.39:606][391]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.26-07.32.39:613][392]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.09.26-07.32.39:631][394]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.09.26-07.32.39:747][407]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.09.26-07.32.39:769][410]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.09.26-07.32.39:796][413]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.09.26-07.32.39:802][414]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.26-07.32.39:904][426]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.26-07.32.40:051][442]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-07.32.40:171][456]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.09.26-07.32.40:213][461]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.09.26-07.32.40:299][471]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.09.26-07.32.40:401][483]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.09.26-07.32.40:459][490]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.26-07.32.40:636][511]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.26-07.32.40:643][512]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.26-07.32.40:718][521]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.26-07.32.40:811][532]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.26-07.32.41:015][556]MaterialEditorStats: Base pass shader: 102 instructions
+[2019.09.26-07.32.41:015][556]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2019.09.26-07.32.41:015][556]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.09.26-07.32.41:015][556]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-07.32.41:015][556]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-07.32.41:015][556]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-07.32.46:163][172]LogMaterial: Display: Missing cached shader map for material arrow_Mat, compiling. 
+[2019.09.26-07.32.46:182][172]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.09.26-07.32.46:182][172]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-07.32.46:182][172]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.26-07.32.46:182][172]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.26-07.32.46:185][172]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.26-07.32.46:336][178]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.26-07.32.46:386][183]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.26-07.32.46:427][188]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.09.26-07.32.46:443][190]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.09.26-07.32.46:522][199]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.09.26-07.32.46:577][205]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.09.26-07.32.46:582][206]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.09.26-07.32.46:601][208]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.26-07.32.46:687][218]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.26-07.32.46:849][237]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-07.32.46:983][253]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.09.26-07.32.46:991][254]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.09.26-07.32.47:075][264]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.09.26-07.32.47:215][280]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.09.26-07.32.47:250][284]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.26-07.32.47:326][292]LogMaterial: Display: Missing cached shader map for material arrow_Mat, compiling. 
+[2019.09.26-07.32.47:400][299]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.09.26-07.32.47:445][304]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.09.26-07.32.47:510][312]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.09.26-07.32.47:598][322]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-07.32.47:687][332]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.26-07.32.47:705][334]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.26-07.32.47:748][339]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.09.26-07.32.47:817][347]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.09.26-07.32.47:890][356]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.09.26-07.32.47:900][357]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.09.26-07.32.47:916][359]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.09.26-07.32.47:991][368]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.26-07.32.48:049][375]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.26-07.32.48:066][377]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-07.32.48:083][379]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.09.26-07.32.48:317][406]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.09.26-07.32.48:401][416]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.09.26-07.32.48:460][423]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.09.26-07.32.48:487][426]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.26-07.32.48:646][445]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.26-07.32.48:715][453]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.26-07.32.48:875][472]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.26-07.32.48:882][473]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.26-07.32.49:204][511]MaterialEditorStats: Base pass shader: 102 instructions
+[2019.09.26-07.32.49:204][511]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2019.09.26-07.32.49:204][511]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.09.26-07.32.49:204][511]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-07.32.49:204][511]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-07.32.49:204][511]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-07.32.59:904][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-07.34.38:682][801]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.37.15:453][152]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.38.10:103][879]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.38.14:762][270]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.38.27:867][450]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.38.38:051][352]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.38.43:050][785]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.38.55:150][849]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.38.56:214][943]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-07.38.56:234][943]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-07.38.56:249][943]LogPlayLevel: [PlayLevel] Compiling Examine_UI before play...
+[2019.09.26-07.38.58:241][943]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.457 s
+[2019.09.26-07.38.58:241][943]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.26-07.38.58:241][943]LogOutputDevice: Error: 
+[2019.09.26-07.38.58:241][943]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2019.09.26-07.38.58:241][943]LogOutputDevice: Error: SObjectWidget for 'RTT_UI_C /Engine/Transient.World_3:Examine_UI_C_15.WidgetTree_0.RTT_UI' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2019.09.26-07.38.58:241][943]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2019.09.26-07.38.58:241][943]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2019.09.26-07.38.58:241][943]LogOutputDevice: Error: Stack: 
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec84671f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec81a0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec81bb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007febfc79a63 UE4Editor-UMG.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec40bf39a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec460fc17 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec4613419 UE4Editor-Slate.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007febfd41c4b UE4Editor-UMG.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec7be2ad1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec7bb756e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec7b33f54 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec7b334ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec17e718c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec17cf701 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec17ee536 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec1206b41 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000007fec1aff666 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000000013fbc5cbd UE4Editor.exe!UnknownFunction []
+[2019.09.26-07.38.58:242][943]LogOutputDevice: Error: [Callstack] 0x000000013fbd5b3c UE4Editor.exe!UnknownFunction []
+[2019.09.26-07.38.58:243][943]LogOutputDevice: Error: [Callstack] 0x000000013fbd5bba UE4Editor.exe!UnknownFunction []
+[2019.09.26-07.38.58:243][943]LogOutputDevice: Error: [Callstack] 0x000000013fbe3dac UE4Editor.exe!UnknownFunction []
+[2019.09.26-07.38.58:243][943]LogOutputDevice: Error: [Callstack] 0x000000013fbe5aaa UE4Editor.exe!UnknownFunction []
+[2019.09.26-07.38.58:243][943]LogOutputDevice: Error: [Callstack] 0x00000000778d556d kernel32.dll!UnknownFunction []
+[2019.09.26-07.38.58:243][943]LogOutputDevice: Error: [Callstack] 0x0000000077b3385d ntdll.dll!UnknownFunction []
+[2019.09.26-07.38.58:243][943]LogOutputDevice: Error: 
+[2019.09.26-07.38.58:277][943]LogStats:                SubmitErrorReport -  0.028 s
+[2019.09.26-07.39.04:770][943]LogStats:                    SendNewReport -  6.493 s
+[2019.09.26-07.39.04:770][943]LogStats:             FDebug::EnsureFailed -  7.986 s
+[2019.09.26-07.39.04:774][943]LogPlayLevel: PlayLevel: Blueprint regeneration took 8540 ms (1 blueprints)
+[2019.09.26-07.39.04:774][943]PIE: New page: PIE session: MainLevel (26 Sep 2019 09:39:04)
+[2019.09.26-07.39.04:774][943]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-07.39.04:778][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003668s)
+[2019.09.26-07.39.04:779][943]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-07.39.04:779][943]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2019.09.26-07.39.04:779][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004477s)
+[2019.09.26-07.39.04:825][943]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-07.39.04:842][943]LogInit: FAudioDevice initialized.
+[2019.09.26-07.39.04:850][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.39.04:891][943]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-07.39.04:893][943]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-08.39.04
+[2019.09.26-07.39.04:893][943]LogWorld: Bringing up level for play took: 0.000861
+[2019.09.26-07.39.04:904][943]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-07.39.04:904][943]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-07.39.04:904][943]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-07.39.04:906][943]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-07.39.04:908][943]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 8.231
+[2019.09.26-07.39.04:949][943]LogRenderer: Reallocating scene render targets to support 1292x1028 Format 10 NumSamples 1 (Frame:1).
+[2019.09.26-07.39.09:433][295]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-07.39.11:232][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-07.39.11:306][447]LogBlueprintUserMessages: [Examine_UI_C_0] 45.0
+[2019.09.26-07.39.13:877][658]LogBlueprintUserMessages: [Examine_UI_C_0] 90.0
+[2019.09.26-07.39.14:299][692]LogBlueprintUserMessages: [Examine_UI_C_0] 135.0
+[2019.09.26-07.39.14:591][716]LogBlueprintUserMessages: [Examine_UI_C_0] 180.0
+[2019.09.26-07.39.14:818][735]LogBlueprintUserMessages: [Examine_UI_C_0] 225.0
+[2019.09.26-07.39.15:041][753]LogBlueprintUserMessages: [Examine_UI_C_0] 270.0
+[2019.09.26-07.39.15:274][772]LogBlueprintUserMessages: [Examine_UI_C_0] 315.0
+[2019.09.26-07.39.15:472][788]LogBlueprintUserMessages: [Examine_UI_C_0] 360.0
+[2019.09.26-07.39.16:663][884]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-07.39.16:871][901]LogBlueprintUserMessages: [Examine_UI_C_0] -90.0
+[2019.09.26-07.39.17:078][918]LogBlueprintUserMessages: [Examine_UI_C_0] -135.0
+[2019.09.26-07.39.17:249][932]LogBlueprintUserMessages: [Examine_UI_C_0] -180.0
+[2019.09.26-07.39.17:443][948]LogBlueprintUserMessages: [Examine_UI_C_0] -225.0
+[2019.09.26-07.39.17:627][963]LogBlueprintUserMessages: [Examine_UI_C_0] -270.0
+[2019.09.26-07.39.17:809][978]LogBlueprintUserMessages: [Examine_UI_C_0] -315.0
+[2019.09.26-07.39.18:003][994]LogBlueprintUserMessages: [Examine_UI_C_0] -360.0
+[2019.09.26-07.39.20:134][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.39.20:146][169]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-07.39.20:177][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-07.39.20:243][172]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.09.26-07.39.49:723][808]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.40.16:522][337]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.40.25:313][136]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.40.45:674][943]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.40.58:350][ 74]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.41.16:784][765]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.41.21:642][ 62]LogSlate: Window 'Save Asset As' being destroyed
+[2019.09.26-07.41.23:946][146]LogSlate: Window 'Save Asset As' being destroyed
+[2019.09.26-07.41.40:170][566]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.41.48:616][315]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.42.00:403][362]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.42.19:937][882]LogSlate: Window 'Save Asset As' being destroyed
+[2019.09.26-07.42.21:230][882]LogSlate: Window 'Message' being destroyed
+[2019.09.26-07.42.56:425][ 16]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.43.10:495][271]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-07.43.11:106][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Examine_UI" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/UI/Examine_UI.uasset" SILENT=true
+[2019.09.26-07.43.11:155][298]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/Examine_UIA67A16DA4DD2C3B0B303CAAE60F0CE9D.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/UI/Examine_UI.uasset'
+[2019.09.26-07.43.11:668][343]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-07.43.11:681][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-07.43.11:681][343]PIE: New page: PIE session: MainLevel (26 Sep 2019 09:43:11)
+[2019.09.26-07.43.11:681][343]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-07.43.11:685][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003310s)
+[2019.09.26-07.43.11:685][343]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-07.43.11:685][343]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2019.09.26-07.43.11:685][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004022s)
+[2019.09.26-07.43.11:732][343]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-07.43.11:749][343]LogInit: FAudioDevice initialized.
+[2019.09.26-07.43.11:758][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.43.11:798][343]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-07.43.11:799][343]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-08.43.11
+[2019.09.26-07.43.11:799][343]LogWorld: Bringing up level for play took: 0.000837
+[2019.09.26-07.43.11:810][343]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-07.43.11:810][343]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-07.43.11:810][343]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-07.43.11:812][343]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-07.43.11:814][343]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 1.133
+[2019.09.26-07.43.13:606][476]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-07.43.17:775][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-07.43.17:884][823]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-07.43.18:974][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.43.18:986][911]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-07.43.19:012][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-07.43.19:080][914]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.09.26-07.43.27:852][707]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.43.33:504][204]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.43.37:954][584]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.26-07.43.41:263][863]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-07.43.41:802][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Examine_UI" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/UI/Examine_UI.uasset" SILENT=true
+[2019.09.26-07.43.41:840][882]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/Examine_UI3779591D45F17CEC487D08B67D586B26.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/UI/Examine_UI.uasset'
+[2019.09.26-07.43.42:337][923]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-07.43.42:351][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-07.43.42:351][923]PIE: New page: PIE session: MainLevel (26 Sep 2019 09:43:42)
+[2019.09.26-07.43.42:351][923]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-07.43.42:354][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002847s)
+[2019.09.26-07.43.42:355][923]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-07.43.42:355][923]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2019.09.26-07.43.42:355][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003597s)
+[2019.09.26-07.43.42:396][923]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-07.43.42:412][923]LogInit: FAudioDevice initialized.
+[2019.09.26-07.43.42:421][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.43.42:461][923]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-07.43.42:462][923]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-08.43.42
+[2019.09.26-07.43.42:462][923]LogWorld: Bringing up level for play took: 0.000917
+[2019.09.26-07.43.42:473][923]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-07.43.42:473][923]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-07.43.42:473][923]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-07.43.42:475][923]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-07.43.42:477][923]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.203
+[2019.09.26-07.43.43:959][ 30]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-07.43.47:525][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-07.43.47:949][353]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-07.43.49:954][516]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-07.43.51:017][603]LogBlueprintUserMessages: [Examine_UI_C_0] -90.0
+[2019.09.26-07.43.52:050][687]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-07.43.52:716][741]LogBlueprintUserMessages: [Examine_UI_C_0] 0.0
+[2019.09.26-07.43.53:711][821]LogBlueprintUserMessages: [Examine_UI_C_0] 0.0
+[2019.09.26-07.43.54:501][885]LogBlueprintUserMessages: [Examine_UI_C_0] 45.0
+[2019.09.26-07.43.55:682][979]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-07.43.56:060][  9]LogBlueprintUserMessages: [Examine_UI_C_0] -90.0
+[2019.09.26-07.43.56:386][ 36]LogBlueprintUserMessages: [Examine_UI_C_0] -135.0
+[2019.09.26-07.43.57:250][105]LogBlueprintUserMessages: [Examine_UI_C_0] 90.0
+[2019.09.26-07.43.58:765][228]LogBlueprintUserMessages: [Examine_UI_C_0] 45.0
+[2019.09.26-07.43.59:090][255]LogBlueprintUserMessages: [Examine_UI_C_0] 0.0
+[2019.09.26-07.43.59:991][328]LogBlueprintUserMessages: [Examine_UI_C_0] -90.0
+[2019.09.26-07.44.00:413][363]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-07.44.00:740][390]LogBlueprintUserMessages: [Examine_UI_C_0] 0.0
+[2019.09.26-07.44.02:846][559]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-07.44.02:878][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-07.44.02:943][562]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.09.26-07.44.30:489][673]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-07.44.30:503][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-07.44.30:503][673]PIE: New page: PIE session: MainLevel (26 Sep 2019 09:44:30)
+[2019.09.26-07.44.30:503][673]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-07.44.30:506][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002816s)
+[2019.09.26-07.44.30:506][673]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-07.44.30:506][673]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2019.09.26-07.44.30:506][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003458s)
+[2019.09.26-07.44.30:550][673]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-07.44.30:566][673]LogInit: FAudioDevice initialized.
+[2019.09.26-07.44.30:574][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-07.44.30:611][673]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-07.44.30:613][673]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-08.44.30
+[2019.09.26-07.44.30:613][673]LogWorld: Bringing up level for play took: 0.000818
+[2019.09.26-07.44.30:624][673]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-07.44.30:624][673]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-07.44.30:624][673]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-07.44.30:626][673]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-07.44.30:627][673]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.053
+[2019.09.26-07.44.35:569][151]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-07.45.01:203][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-07.45.01:303][606]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-07.45.02:016][649]LogBlueprintUserMessages: [Examine_UI_C_0] -90.0
+[2019.09.26-07.45.02:536][680]LogBlueprintUserMessages: [Examine_UI_C_0] -135.0
+[2019.09.26-07.45.03:136][716]LogBlueprintUserMessages: [Examine_UI_C_0] -180.0
+[2019.09.26-07.45.05:181][839]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-07.45.05:503][858]LogBlueprintUserMessages: [Examine_UI_C_0] -90.0
+[2019.09.26-07.45.05:784][875]LogBlueprintUserMessages: [Examine_UI_C_0] -135.0
+[2019.09.26-07.45.06:503][918]LogBlueprintUserMessages: [Examine_UI_C_0] -180.0
+[2019.09.26-07.45.07:703][990]LogBlueprintUserMessages: [Examine_UI_C_0] -135.0
+[2019.09.26-07.45.08:070][ 12]LogBlueprintUserMessages: [Examine_UI_C_0] -90.0
+[2019.09.26-07.45.08:518][ 39]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-07.45.09:236][ 82]LogBlueprintUserMessages: [Examine_UI_C_0] 0.0
+[2019.09.26-07.45.10:402][152]LogBlueprintUserMessages: [Examine_UI_C_0] -135.0
+[2019.09.26-07.45.14:111][432]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-07.45.14:146][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-07.45.14:207][435]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.09.26-07.45.48:543][358]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.027
+[2019.09.26-07.45.48:579][358]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Placeholder/arrow] ([1] browsable assets)...
+[2019.09.26-07.45.48:600][358]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Placeholder/arrow.arrow]
+[2019.09.26-07.45.48:600][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/Placeholder/arrow]
+[2019.09.26-07.45.48:601][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Placeholder/arrow" FILE="../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/Placeholder/arrow_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.09.26-07.45.48:629][358]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/arrow_Auto136F2DFC14A1A5AABAB5ABE9A2C2DA550.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/Placeholder/arrow_Auto1.uasset'
+[2019.09.26-07.45.48:631][358]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Placeholder/arrow_Mat] ([1] browsable assets)...
+[2019.09.26-07.45.48:654][358]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Placeholder/arrow_Mat.arrow_Mat]
+[2019.09.26-07.45.48:654][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/Placeholder/arrow_Mat]
+[2019.09.26-07.45.48:654][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Placeholder/arrow_Mat" FILE="../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/Placeholder/arrow_Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.09.26-07.45.48:673][358]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/arrow_Mat_Auto11A29C2E84ACCDD2380032D96CF2FC641.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/Placeholder/arrow_Mat_Auto1.uasset'
+[2019.09.26-07.45.48:674][358]LogFileHelpers: Auto-saving content packages took 0.131
+[2019.09.26-09.38.03:112][250]LogSlate: Took 0.009796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.26-09.38.41:749][785]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Examine/BP_RenderObject.BP_RenderObject
+[2019.09.26-09.39.01:689][ 68]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-09.39.23:163][564]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-09.39.24:379][681]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-09.39.24:398][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-09.39.24:398][681]PIE: New page: PIE session: MainLevel (26 Sep 2019 11:39:24)
+[2019.09.26-09.39.24:398][681]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-09.39.24:401][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003234s)
+[2019.09.26-09.39.24:402][681]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-09.39.24:402][681]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2019.09.26-09.39.24:402][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003986s)
+[2019.09.26-09.39.24:451][681]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-09.39.24:469][681]LogInit: FAudioDevice initialized.
+[2019.09.26-09.39.24:478][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.39.24:522][681]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-09.39.24:523][681]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-10.39.24
+[2019.09.26-09.39.24:523][681]LogWorld: Bringing up level for play took: 0.000905
+[2019.09.26-09.39.24:534][681]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.39.24:534][681]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.39.24:534][681]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.39.24:537][681]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.39.24:540][681]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.212
+[2019.09.26-09.39.26:331][865]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-09.39.28:140][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-09.39.30:224][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.39.30:236][332]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-09.39.30:268][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-09.39.30:331][335]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.09.26-09.39.52:238][799]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-09.39.53:461][918]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-09.39.53:480][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-09.39.53:480][918]PIE: New page: PIE session: MainLevel (26 Sep 2019 11:39:53)
+[2019.09.26-09.39.53:480][918]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-09.39.53:483][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003037s)
+[2019.09.26-09.39.53:484][918]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-09.39.53:484][918]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2019.09.26-09.39.53:484][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003746s)
+[2019.09.26-09.39.53:533][918]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-09.39.53:549][918]LogInit: FAudioDevice initialized.
+[2019.09.26-09.39.53:557][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.39.53:602][918]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-09.39.53:604][918]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-10.39.53
+[2019.09.26-09.39.53:604][918]LogWorld: Bringing up level for play took: 0.000878
+[2019.09.26-09.39.53:615][918]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.39.53:615][918]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.39.53:615][918]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.39.53:617][918]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.39.53:621][918]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.868
+[2019.09.26-09.39.59:226][575]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-09.40.00:477][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-09.40.13:272][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.40.13:284][256]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-09.40.13:313][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-09.40.13:377][259]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.09.26-09.41.25:976][ 38]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.028
+[2019.09.26-09.41.25:979][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Examine_UI] ([1] browsable assets)...
+[2019.09.26-09.41.25:979][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Examine_UI]
+[2019.09.26-09.41.25:979][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Examine_UI" FILE="../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/UI/Examine_UI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.09.26-09.41.26:061][ 38]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/Examine_UI_Auto2A54874B0441AFB2CD47487B6467B0584.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/UI/Examine_UI_Auto2.uasset'
+[2019.09.26-09.41.26:071][ 38]LogFileHelpers: Auto-saving content packages took 0.093
+[2019.09.26-09.47.31:684][522]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-09.47.32:304][568]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-09.47.32:326][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-09.47.32:326][568]PIE: New page: PIE session: MainLevel (26 Sep 2019 11:47:32)
+[2019.09.26-09.47.32:326][568]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-09.47.32:330][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003521s)
+[2019.09.26-09.47.32:330][568]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-09.47.32:330][568]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2019.09.26-09.47.32:330][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004304s)
+[2019.09.26-09.47.32:381][568]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-09.47.32:399][568]LogInit: FAudioDevice initialized.
+[2019.09.26-09.47.32:419][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.47.32:466][568]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-09.47.32:468][568]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-10.47.32
+[2019.09.26-09.47.32:468][568]LogWorld: Bringing up level for play took: 0.000850
+[2019.09.26-09.47.32:479][568]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.47.32:479][568]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.47.32:479][568]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.47.32:481][568]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.47.32:484][568]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.273
+[2019.09.26-09.47.33:896][729]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-09.47.35:162][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-09.47.37:466][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.47.37:480][156]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-09.47.37:511][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-09.47.37:569][158]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.09.26-09.48.04:212][301]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-09.48.04:231][301]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-09.48.04:248][301]LogPlayLevel: [PlayLevel] Compiling Examine_UI before play...
+[2019.09.26-09.48.04:422][301]LogPlayLevel: PlayLevel: Blueprint regeneration took 191 ms (1 blueprints)
+[2019.09.26-09.48.04:423][301]PIE: New page: PIE session: MainLevel (26 Sep 2019 11:48:04)
+[2019.09.26-09.48.04:423][301]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-09.48.04:426][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003770s)
+[2019.09.26-09.48.04:427][301]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-09.48.04:427][301]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2019.09.26-09.48.04:427][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004492s)
+[2019.09.26-09.48.04:476][301]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-09.48.04:493][301]LogInit: FAudioDevice initialized.
+[2019.09.26-09.48.04:500][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.48.04:538][301]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-09.48.04:539][301]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-10.48.04
+[2019.09.26-09.48.04:539][301]LogWorld: Bringing up level for play took: 0.001013
+[2019.09.26-09.48.04:552][301]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.48.04:552][301]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.48.04:552][301]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.48.04:554][301]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.48.04:555][301]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.203
+[2019.09.26-09.48.06:166][481]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-09.48.07:961][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-09.48.09:789][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.48.09:802][915]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-09.48.09:834][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-09.48.09:890][917]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.09.26-09.50.36:140][303]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-09.50.36:164][303]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-09.50.36:183][303]LogPlayLevel: [PlayLevel] Compiling Examine_UI before play...
+[2019.09.26-09.50.36:360][303]LogPlayLevel: PlayLevel: Blueprint regeneration took 196 ms (1 blueprints)
+[2019.09.26-09.50.36:360][303]PIE: New page: PIE session: MainLevel (26 Sep 2019 11:50:36)
+[2019.09.26-09.50.36:360][303]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-09.50.36:363][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003092s)
+[2019.09.26-09.50.36:364][303]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-09.50.36:364][303]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2019.09.26-09.50.36:364][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003864s)
+[2019.09.26-09.50.36:416][303]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-09.50.36:433][303]LogInit: FAudioDevice initialized.
+[2019.09.26-09.50.36:443][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.50.36:482][303]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-09.50.36:483][303]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-10.50.36
+[2019.09.26-09.50.36:483][303]LogWorld: Bringing up level for play took: 0.000890
+[2019.09.26-09.50.36:494][303]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.50.36:494][303]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.50.36:494][303]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.50.36:496][303]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.50.36:497][303]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.263
+[2019.09.26-09.50.37:620][416]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-09.50.38:736][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-09.50.42:479][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.50.42:491][999]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-09.50.42:518][999]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-09.50.42:581][  1]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.09.26-09.50.58:514][907]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerCharacter.PlayerCharacter
+[2019.09.26-09.51.32:383][693]BlueprintLog: New page: Compile PlayerCharacter
+[2019.09.26-09.51.44:967][129]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-09.51.44:988][129]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-09.51.45:014][129]LogPlayLevel: [PlayLevel] Compiling Examine_UI before play...
+[2019.09.26-09.51.45:204][129]LogPlayLevel: PlayLevel: Blueprint regeneration took 216 ms (1 blueprints)
+[2019.09.26-09.51.45:204][129]PIE: New page: PIE session: MainLevel (26 Sep 2019 11:51:45)
+[2019.09.26-09.51.45:204][129]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-09.51.45:208][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003659s)
+[2019.09.26-09.51.45:209][129]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-09.51.45:209][129]LogPlayLevel: PIE: World Init took: (0.000559s)
+[2019.09.26-09.51.45:209][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004341s)
+[2019.09.26-09.51.45:261][129]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-09.51.45:278][129]LogInit: FAudioDevice initialized.
+[2019.09.26-09.51.45:286][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.51.45:326][129]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-09.51.45:328][129]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-10.51.45
+[2019.09.26-09.51.45:328][129]LogWorld: Bringing up level for play took: 0.000839
+[2019.09.26-09.51.45:340][129]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.51.45:340][129]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.51.45:340][129]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.51.45:342][129]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.51.45:342][129]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.581
+[2019.09.26-09.51.46:660][270]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-09.51.47:747][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-09.51.49:125][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.51.49:137][560]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-09.51.49:166][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-09.51.49:228][562]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.09.26-09.52.14:287][743]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.031
+[2019.09.26-09.52.14:288][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerCharacter] ([1] browsable assets)...
+[2019.09.26-09.52.14:288][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerCharacter]
+[2019.09.26-09.52.14:288][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/PlayerCharacter_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.09.26-09.52.14:353][743]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/PlayerCharacter_Auto3E6F57D21455C2601913E27B64479B7E0.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/PlayerCharacter_Auto3.uasset'
+[2019.09.26-09.52.14:354][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Examine_UI] ([1] browsable assets)...
+[2019.09.26-09.52.14:354][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Examine_UI]
+[2019.09.26-09.52.14:354][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Examine_UI" FILE="../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/UI/Examine_UI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.09.26-09.52.14:468][743]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/Examine_UI_Auto3DFF1540E422B4486D6C8AAB0E18D1F2A.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/UI/Examine_UI_Auto3.uasset'
+[2019.09.26-09.52.14:469][743]LogFileHelpers: Auto-saving content packages took 0.182
+[2019.09.26-09.55.33:139][975]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-09.55.33:161][975]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-09.55.33:178][975]LogPlayLevel: [PlayLevel] Compiling Examine_UI before play...
+[2019.09.26-09.55.33:366][975]LogPlayLevel: PlayLevel: Blueprint regeneration took 204 ms (1 blueprints)
+[2019.09.26-09.55.33:366][975]PIE: New page: PIE session: MainLevel (26 Sep 2019 11:55:33)
+[2019.09.26-09.55.33:366][975]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-09.55.33:370][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004086s)
+[2019.09.26-09.55.33:371][975]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-09.55.33:371][975]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2019.09.26-09.55.33:371][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004825s)
+[2019.09.26-09.55.33:423][975]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-09.55.33:439][975]LogInit: FAudioDevice initialized.
+[2019.09.26-09.55.33:447][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.55.33:488][975]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-09.55.33:489][975]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-10.55.33
+[2019.09.26-09.55.33:489][975]LogWorld: Bringing up level for play took: 0.000837
+[2019.09.26-09.55.33:500][975]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.55.33:500][975]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.55.33:500][975]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.55.33:503][975]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.55.33:504][975]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.741
+[2019.09.26-09.55.36:752][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-09.55.46:872][538]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-09.55.48:157][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-09.55.50:910][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.55.50:922][ 18]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-09.55.50:949][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-09.55.51:256][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.09.26-09.56.57:315][483]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-09.56.58:175][554]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-09.56.58:198][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-09.56.58:198][554]PIE: New page: PIE session: MainLevel (26 Sep 2019 11:56:58)
+[2019.09.26-09.56.58:198][554]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-09.56.58:202][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003587s)
+[2019.09.26-09.56.58:202][554]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-09.56.58:203][554]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2019.09.26-09.56.58:203][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004546s)
+[2019.09.26-09.56.58:254][554]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-09.56.58:271][554]LogInit: FAudioDevice initialized.
+[2019.09.26-09.56.58:279][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.56.58:325][554]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-09.56.58:326][554]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-10.56.58
+[2019.09.26-09.56.58:326][554]LogWorld: Bringing up level for play took: 0.000857
+[2019.09.26-09.56.58:337][554]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.56.58:337][554]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.56.58:337][554]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.56.58:339][554]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.56.58:343][554]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.421
+[2019.09.26-09.56.59:537][688]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-09.57.00:663][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-09.57.03:491][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.57.03:503][160]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-09.57.03:535][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-09.57.03:596][162]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.09.26-09.57.07:230][594]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-09.57.07:252][594]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-09.57.07:270][594]LogPlayLevel: [PlayLevel] Compiling Examine_UI before play...
+[2019.09.26-09.57.07:459][594]LogPlayLevel: PlayLevel: Blueprint regeneration took 206 ms (1 blueprints)
+[2019.09.26-09.57.07:459][594]PIE: New page: PIE session: MainLevel (26 Sep 2019 11:57:07)
+[2019.09.26-09.57.07:459][594]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-09.57.07:462][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003243s)
+[2019.09.26-09.57.07:463][594]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-09.57.07:463][594]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2019.09.26-09.57.07:463][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004139s)
+[2019.09.26-09.57.07:517][594]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-09.57.07:533][594]LogInit: FAudioDevice initialized.
+[2019.09.26-09.57.07:541][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.57.07:578][594]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-09.57.07:580][594]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-10.57.07
+[2019.09.26-09.57.07:580][594]LogWorld: Bringing up level for play took: 0.000840
+[2019.09.26-09.57.07:591][594]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.57.07:591][594]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.57.07:591][594]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.57.07:593][594]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.57.07:595][594]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.831
+[2019.09.26-09.57.09:419][800]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-09.57.10:479][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-09.57.11:692][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.57.11:704][ 72]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-09.57.11:731][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-09.57.11:791][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.09.26-09.58.32:850][521]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-09.58.33:686][564]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-09.58.33:708][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-09.58.33:709][564]PIE: New page: PIE session: MainLevel (26 Sep 2019 11:58:33)
+[2019.09.26-09.58.33:709][564]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-09.58.33:712][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003082s)
+[2019.09.26-09.58.33:712][564]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-09.58.33:712][564]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2019.09.26-09.58.33:713][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003820s)
+[2019.09.26-09.58.33:762][564]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-09.58.33:780][564]LogInit: FAudioDevice initialized.
+[2019.09.26-09.58.33:789][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.58.33:829][564]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-09.58.33:830][564]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-10.58.33
+[2019.09.26-09.58.33:830][564]LogWorld: Bringing up level for play took: 0.000838
+[2019.09.26-09.58.33:841][564]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.58.33:841][564]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.58.33:841][564]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.58.33:843][564]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.58.33:845][564]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 1.08
+[2019.09.26-09.58.35:285][664]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-09.58.36:451][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-09.58.38:250][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.58.38:262][881]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-09.58.38:291][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-09.58.38:353][883]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.09.26-09.59.00:907][175]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-09.59.01:655][214]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-09.59.01:681][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-09.59.01:681][214]PIE: New page: PIE session: MainLevel (26 Sep 2019 11:59:01)
+[2019.09.26-09.59.01:681][214]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-09.59.01:684][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003141s)
+[2019.09.26-09.59.01:685][214]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-09.59.01:685][214]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2019.09.26-09.59.01:685][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003837s)
+[2019.09.26-09.59.01:736][214]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-09.59.01:752][214]LogInit: FAudioDevice initialized.
+[2019.09.26-09.59.01:760][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.59.01:802][214]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-09.59.01:803][214]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-10.59.01
+[2019.09.26-09.59.01:804][214]LogWorld: Bringing up level for play took: 0.000910
+[2019.09.26-09.59.01:815][214]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.59.01:815][214]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.59.01:815][214]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.59.01:818][214]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.59.01:819][214]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 1.054
+[2019.09.26-09.59.03:040][300]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-09.59.04:218][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-09.59.05:410][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.59.05:422][482]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-09.59.05:452][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-09.59.05:511][484]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.09.26-09.59.08:517][743]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-09.59.08:537][743]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-09.59.08:554][743]LogPlayLevel: [PlayLevel] Compiling Examine_UI before play...
+[2019.09.26-09.59.08:764][743]LogPlayLevel: PlayLevel: Blueprint regeneration took 226 ms (1 blueprints)
+[2019.09.26-09.59.08:764][743]PIE: New page: PIE session: MainLevel (26 Sep 2019 11:59:08)
+[2019.09.26-09.59.08:765][743]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-09.59.08:768][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003018s)
+[2019.09.26-09.59.08:768][743]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-09.59.08:768][743]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2019.09.26-09.59.08:768][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003716s)
+[2019.09.26-09.59.08:817][743]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-09.59.08:833][743]LogInit: FAudioDevice initialized.
+[2019.09.26-09.59.08:841][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.59.08:879][743]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-09.59.08:880][743]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-10.59.08
+[2019.09.26-09.59.08:880][743]LogWorld: Bringing up level for play took: 0.000842
+[2019.09.26-09.59.08:892][743]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.59.08:892][743]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-09.59.08:892][743]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.59.08:894][743]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-09.59.08:896][743]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.131
+[2019.09.26-09.59.10:065][816]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-09.59.11:160][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-09.59.15:107][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-09.59.15:119][176]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-09.59.15:145][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-09.59.15:208][178]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.09.26-09.59.20:743][636]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-10.01.51:899][ 15]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-10.01.53:248][148]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-10.01.53:268][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-10.01.53:268][148]PIE: New page: PIE session: MainLevel (26 Sep 2019 12:01:53)
+[2019.09.26-10.01.53:268][148]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-10.01.53:271][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003047s)
+[2019.09.26-10.01.53:272][148]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-10.01.53:272][148]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2019.09.26-10.01.53:272][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003785s)
+[2019.09.26-10.01.53:320][148]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-10.01.53:337][148]LogInit: FAudioDevice initialized.
+[2019.09.26-10.01.53:345][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.01.53:386][148]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-10.01.53:387][148]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-11.01.53
+[2019.09.26-10.01.53:387][148]LogWorld: Bringing up level for play took: 0.000860
+[2019.09.26-10.01.53:398][148]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.01.53:398][148]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.01.53:398][148]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.01.53:400][148]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.01.53:403][148]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.636
+[2019.09.26-10.01.54:616][287]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.01.55:474][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-10.01.59:483][871]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.01.59:495][871]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-10.01.59:527][871]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-10.01.59:583][873]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.09.26-10.02.29:494][639]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-10.02.31:758][850]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-10.02.31:786][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-10.02.31:786][850]PIE: New page: PIE session: MainLevel (26 Sep 2019 12:02:31)
+[2019.09.26-10.02.31:786][850]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-10.02.31:789][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003087s)
+[2019.09.26-10.02.31:789][850]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-10.02.31:790][850]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2019.09.26-10.02.31:790][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003791s)
+[2019.09.26-10.02.31:837][850]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-10.02.31:852][850]LogInit: FAudioDevice initialized.
+[2019.09.26-10.02.31:860][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.02.31:901][850]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-10.02.31:902][850]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-11.02.31
+[2019.09.26-10.02.31:903][850]LogWorld: Bringing up level for play took: 0.000892
+[2019.09.26-10.02.31:914][850]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.02.31:914][850]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.02.31:914][850]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.02.31:916][850]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.02.31:917][850]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.85
+[2019.09.26-10.02.33:410][974]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.02.34:337][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-10.02.35:205][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.02.35:217][141]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-10.02.35:246][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-10.02.35:310][144]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.09.26-10.02.49:528][760]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-10.02.49:549][760]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-10.02.49:566][760]LogPlayLevel: [PlayLevel] Compiling Examine_UI before play...
+[2019.09.26-10.02.49:745][760]LogPlayLevel: PlayLevel: Blueprint regeneration took 196 ms (1 blueprints)
+[2019.09.26-10.02.49:745][760]PIE: New page: PIE session: MainLevel (26 Sep 2019 12:02:49)
+[2019.09.26-10.02.49:746][760]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-10.02.49:749][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003256s)
+[2019.09.26-10.02.49:749][760]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-10.02.49:749][760]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2019.09.26-10.02.49:749][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003919s)
+[2019.09.26-10.02.49:797][760]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-10.02.49:813][760]LogInit: FAudioDevice initialized.
+[2019.09.26-10.02.49:821][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.02.49:857][760]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-10.02.49:858][760]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-11.02.49
+[2019.09.26-10.02.49:859][760]LogWorld: Bringing up level for play took: 0.000852
+[2019.09.26-10.02.49:870][760]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.02.49:870][760]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.02.49:870][760]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.02.49:872][760]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.02.49:873][760]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 1.105
+[2019.09.26-10.02.51:034][880]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.02.51:900][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-10.02.52:927][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.02.52:939][107]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-10.02.52:968][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-10.02.53:026][109]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.09.26-10.03.19:865][305]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-10.03.19:891][305]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-10.03.19:908][305]LogPlayLevel: [PlayLevel] Compiling Examine_UI before play...
+[2019.09.26-10.03.20:083][305]LogPlayLevel: PlayLevel: Blueprint regeneration took 192 ms (1 blueprints)
+[2019.09.26-10.03.20:083][305]PIE: New page: PIE session: MainLevel (26 Sep 2019 12:03:20)
+[2019.09.26-10.03.20:084][305]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-10.03.20:087][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003300s)
+[2019.09.26-10.03.20:087][305]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-10.03.20:088][305]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2019.09.26-10.03.20:088][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004015s)
+[2019.09.26-10.03.20:137][305]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-10.03.20:153][305]LogInit: FAudioDevice initialized.
+[2019.09.26-10.03.20:167][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.03.20:209][305]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-10.03.20:210][305]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-11.03.20
+[2019.09.26-10.03.20:210][305]LogWorld: Bringing up level for play took: 0.000858
+[2019.09.26-10.03.20:222][305]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.03.20:222][305]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.03.20:222][305]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.03.20:224][305]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.03.20:225][305]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.542
+[2019.09.26-10.03.21:561][413]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.03.22:345][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-10.03.24:425][673]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.03.26:323][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-10.03.26:408][856]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-10.03.27:028][914]LogBlueprintUserMessages: [Examine_UI_C_0] -90.0
+[2019.09.26-10.03.28:674][ 65]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.03.29:622][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.03.29:634][151]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-10.03.29:659][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-10.03.29:726][154]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.09.26-10.04.10:238][805]BlueprintLog: New page: Compile PlayerCharacter
+[2019.09.26-10.04.16:236][459]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-10.04.16:257][459]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-10.04.16:285][459]LogPlayLevel: [PlayLevel] Compiling Examine_UI before play...
+[2019.09.26-10.04.16:470][459]LogPlayLevel: PlayLevel: Blueprint regeneration took 213 ms (1 blueprints)
+[2019.09.26-10.04.16:470][459]PIE: New page: PIE session: MainLevel (26 Sep 2019 12:04:16)
+[2019.09.26-10.04.16:470][459]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-10.04.16:473][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002974s)
+[2019.09.26-10.04.16:474][459]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-10.04.16:474][459]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2019.09.26-10.04.16:474][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003777s)
+[2019.09.26-10.04.16:521][459]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-10.04.16:537][459]LogInit: FAudioDevice initialized.
+[2019.09.26-10.04.16:545][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.04.16:583][459]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-10.04.16:584][459]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-11.04.16
+[2019.09.26-10.04.16:584][459]LogWorld: Bringing up level for play took: 0.000876
+[2019.09.26-10.04.16:595][459]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.04.16:595][459]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.04.16:595][459]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.04.16:597][459]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.04.16:598][459]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.171
+[2019.09.26-10.04.17:787][573]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.04.18:611][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-10.04.21:440][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.04.21:452][ 10]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-10.04.21:483][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-10.04.21:544][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.09.26-10.04.31:813][231]BlueprintLog: New page: Compile PlayerCharacter
+[2019.09.26-10.04.57:205][342]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainLevel' took 0.039
+[2019.09.26-10.04.57:206][342]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerCharacter] ([1] browsable assets)...
+[2019.09.26-10.04.57:206][342]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerCharacter]
+[2019.09.26-10.04.57:206][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/PlayerCharacter_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.09.26-10.04.57:275][342]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/PlayerCharacter_Auto48A4DB8FA454A51C3D5882F8F94DF58F7.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/PlayerCharacter_Auto4.uasset'
+[2019.09.26-10.04.57:276][342]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Examine_UI] ([1] browsable assets)...
+[2019.09.26-10.04.57:276][342]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Examine_UI]
+[2019.09.26-10.04.57:276][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Examine_UI" FILE="../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/UI/Examine_UI_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.09.26-10.04.57:329][342]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/Examine_UI_Auto42CE239BC48A6B298BD3873BE1B0D5D36.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Saved/Autosaves/Game/UI/Examine_UI_Auto4.uasset'
+[2019.09.26-10.04.57:330][342]LogFileHelpers: Auto-saving content packages took 0.124
+[2019.09.26-10.07.47:571][988]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-10.07.47:592][988]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.26-10.07.47:624][988]LogPlayLevel: [PlayLevel] Compiling Examine_UI before play...
+[2019.09.26-10.07.47:824][988]LogPlayLevel: PlayLevel: Blueprint regeneration took 231 ms (1 blueprints)
+[2019.09.26-10.07.47:824][988]PIE: New page: PIE session: MainLevel (26 Sep 2019 12:07:47)
+[2019.09.26-10.07.47:824][988]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-10.07.47:828][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004070s)
+[2019.09.26-10.07.47:829][988]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-10.07.47:829][988]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2019.09.26-10.07.47:829][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004985s)
+[2019.09.26-10.07.47:881][988]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-10.07.47:899][988]LogInit: FAudioDevice initialized.
+[2019.09.26-10.07.47:907][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.07.47:946][988]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-10.07.47:947][988]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-11.07.47
+[2019.09.26-10.07.47:948][988]LogWorld: Bringing up level for play took: 0.000995
+[2019.09.26-10.07.47:960][988]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.07.47:960][988]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.07.47:960][988]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.07.47:963][988]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.07.47:964][988]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 1.193
+[2019.09.26-10.07.49:545][155]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.07.50:538][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-10.07.54:011][675]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.07.55:271][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-10.07.56:984][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.07.56:996][ 19]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-10.07.57:024][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-10.07.57:089][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.09.26-10.08.03:964][836]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-10.08.05:170][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/PlayerCharacter.uasset" SILENT=true
+[2019.09.26-10.08.05:247][938]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/PlayerCharacter5B859F144F4422CA8FE54789E96C137A.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/PlayerCharacter.uasset'
+[2019.09.26-10.08.05:256][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Examine_UI" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/UI/Examine_UI.uasset" SILENT=true
+[2019.09.26-10.08.05:317][938]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/Examine_UI3DE58E7B41CA273F16B01B8CD11F4A90.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/UI/Examine_UI.uasset'
+[2019.09.26-10.08.05:322][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Placeholder/arrow" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/Placeholder/arrow.uasset" SILENT=true
+[2019.09.26-10.08.05:336][938]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/arrowF7BAD73E4036563DDF76948283872BA1.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/Placeholder/arrow.uasset'
+[2019.09.26-10.08.05:339][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Placeholder/arrow_Mat" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/Placeholder/arrow_Mat.uasset" SILENT=true
+[2019.09.26-10.08.05:341][938]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/arrow_MatD4B0C9534B04C1B804D0B58AE65D56A5.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/Placeholder/arrow_Mat.uasset'
+[2019.09.26-10.12.25:586][304]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-10.12.25:606][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-10.12.25:607][304]PIE: New page: PIE session: MainLevel (26 Sep 2019 12:12:25)
+[2019.09.26-10.12.25:607][304]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-10.12.25:610][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003163s)
+[2019.09.26-10.12.25:610][304]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-10.12.25:610][304]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2019.09.26-10.12.25:611][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003852s)
+[2019.09.26-10.12.25:661][304]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-10.12.25:677][304]LogInit: FAudioDevice initialized.
+[2019.09.26-10.12.25:685][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.12.25:726][304]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-10.12.25:728][304]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-11.12.25
+[2019.09.26-10.12.25:728][304]LogWorld: Bringing up level for play took: 0.000945
+[2019.09.26-10.12.25:739][304]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.12.25:739][304]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.12.25:739][304]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.12.25:741][304]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.12.25:745][304]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.971
+[2019.09.26-10.12.27:494][507]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.12.29:718][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-10.12.32:678][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.12.32:689][129]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-10.12.32:716][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-10.12.32:785][133]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.09.26-10.12.34:731][365]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-10.12.34:751][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-10.12.34:751][365]PIE: New page: PIE session: MainLevel (26 Sep 2019 12:12:34)
+[2019.09.26-10.12.34:752][365]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-10.12.34:755][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003356s)
+[2019.09.26-10.12.34:755][365]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-10.12.34:756][365]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2019.09.26-10.12.34:756][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004112s)
+[2019.09.26-10.12.34:802][365]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-10.12.34:820][365]LogInit: FAudioDevice initialized.
+[2019.09.26-10.12.34:835][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.12.34:877][365]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-10.12.34:879][365]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-11.12.34
+[2019.09.26-10.12.34:879][365]LogWorld: Bringing up level for play took: 0.000847
+[2019.09.26-10.12.34:891][365]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.12.34:891][365]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.12.34:891][365]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.12.34:893][365]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.12.34:896][365]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.122
+[2019.09.26-10.12.35:960][484]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.12.37:293][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-10.12.38:839][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.12.38:851][829]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-10.12.38:881][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-10.12.38:939][832]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.09.26-10.13.12:287][743]BlueprintLog: New page: Compile BP_RenderObject
+[2019.09.26-10.13.12:825][783]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-10.13.12:845][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-10.13.12:845][783]PIE: New page: PIE session: MainLevel (26 Sep 2019 12:13:12)
+[2019.09.26-10.13.12:845][783]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-10.13.12:848][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003303s)
+[2019.09.26-10.13.12:849][783]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-10.13.12:849][783]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2019.09.26-10.13.12:849][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004019s)
+[2019.09.26-10.13.12:899][783]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-10.13.12:915][783]LogInit: FAudioDevice initialized.
+[2019.09.26-10.13.12:923][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.13.12:962][783]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-10.13.12:963][783]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-11.13.12
+[2019.09.26-10.13.12:963][783]LogWorld: Bringing up level for play took: 0.000879
+[2019.09.26-10.13.12:974][783]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.13.12:974][783]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.13.12:974][783]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.13.12:976][783]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.13.12:977][783]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.204
+[2019.09.26-10.13.14:164][905]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.13.14:166][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-10.13.16:307][162]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-10.13.17:599][317]LogBlueprintUserMessages: [Examine_UI_C_0] 0.0
+[2019.09.26-10.13.17:883][351]LogBlueprintUserMessages: [Examine_UI_C_0] 45.0
+[2019.09.26-10.13.18:610][435]LogBlueprintUserMessages: [Examine_UI_C_0] 0.0
+[2019.09.26-10.13.19:309][519]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-10.13.19:476][539]LogBlueprintUserMessages: [Examine_UI_C_0] -90.0
+[2019.09.26-10.13.19:684][564]LogBlueprintUserMessages: [Examine_UI_C_0] -135.0
+[2019.09.26-10.13.19:843][583]LogBlueprintUserMessages: [Examine_UI_C_0] -180.0
+[2019.09.26-10.13.20:009][603]LogBlueprintUserMessages: [Examine_UI_C_0] -225.0
+[2019.09.26-10.13.20:184][624]LogBlueprintUserMessages: [Examine_UI_C_0] -270.0
+[2019.09.26-10.13.20:359][645]LogBlueprintUserMessages: [Examine_UI_C_0] -315.0
+[2019.09.26-10.13.20:609][675]LogBlueprintUserMessages: [Examine_UI_C_0] -360.0
+[2019.09.26-10.13.22:931][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.13.22:943][953]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-10.13.22:970][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-10.13.23:034][956]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.09.26-10.14.00:971][928]LogEditorTransaction: Undo Move Widget
+[2019.09.26-10.14.01:004][928]LogMaterial: Display: Missing cached shader map for material arrow_Mat, compiling. 
+[2019.09.26-10.14.01:024][928]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.09.26-10.14.01:024][928]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-10.14.01:024][928]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.26-10.14.01:024][928]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.26-10.14.01:513][957]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.09.26-10.14.01:556][960]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.09.26-10.14.01:570][961]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.09.26-10.14.01:570][961]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.09.26-10.14.01:686][968]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.09.26-10.14.01:721][970]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.26-10.14.01:753][972]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.09.26-10.14.01:753][972]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.26-10.14.01:847][978]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.09.26-10.14.01:984][985]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.09.26-10.14.02:106][992]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.09.26-10.14.02:153][995]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.09.26-10.14.02:221][999]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.09.26-10.14.02:339][  6]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.09.26-10.14.02:358][  7]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.09.26-10.14.02:549][ 18]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.26-10.14.02:566][ 19]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.09.26-10.14.02:860][ 39]MaterialEditorStats: Base pass shader: 102 instructions
+[2019.09.26-10.14.02:860][ 39]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2019.09.26-10.14.02:860][ 39]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.09.26-10.14.02:860][ 39]MaterialEditorStats: Texture samplers: 4/16
+[2019.09.26-10.14.02:860][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.09.26-10.14.02:860][ 39]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.26-10.14.30:272][352]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-10.14.32:201][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Examine/BP_RenderObject" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/Blueprints/Examine/BP_RenderObject.uasset" SILENT=true
+[2019.09.26-10.14.32:229][516]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/BP_RenderObjectC9BFFD414D8C1D83CBFC30BAB9CBEE98.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/Blueprints/Examine/BP_RenderObject.uasset'
+[2019.09.26-10.14.32:244][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Examine_UI" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/UI/Examine_UI.uasset" SILENT=true
+[2019.09.26-10.14.32:288][516]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/Examine_UI19D2A769462E4427E7BC7AACFE547CBF.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/UI/Examine_UI.uasset'
+[2019.09.26-10.14.37:892][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-10.14.37:929][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-10.14.37:929][ 86]PIE: New page: PIE session: MainLevel (26 Sep 2019 12:14:37)
+[2019.09.26-10.14.37:929][ 86]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-10.14.37:932][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002754s)
+[2019.09.26-10.14.37:933][ 86]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-10.14.37:933][ 86]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2019.09.26-10.14.37:933][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003419s)
+[2019.09.26-10.14.37:982][ 86]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-10.14.37:998][ 86]LogInit: FAudioDevice initialized.
+[2019.09.26-10.14.38:015][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.14.38:053][ 86]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-10.14.38:054][ 86]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-11.14.38
+[2019.09.26-10.14.38:055][ 86]LogWorld: Bringing up level for play took: 0.000878
+[2019.09.26-10.14.38:066][ 86]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.14.38:066][ 86]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.14.38:066][ 86]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.14.38:068][ 86]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.14.38:069][ 86]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.705
+[2019.09.26-10.14.39:389][199]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.14.39:390][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-10.14.40:879][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.14.40:890][338]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-10.14.40:918][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-10.14.40:986][341]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.09.26-10.15.01:062][248]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-10.15.01:082][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-10.15.01:082][248]PIE: New page: PIE session: MainLevel (26 Sep 2019 12:15:01)
+[2019.09.26-10.15.01:082][248]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.09.26-10.15.01:085][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002792s)
+[2019.09.26-10.15.01:085][248]LogAIModule: Creating AISystem for world MainLevel
+[2019.09.26-10.15.01:085][248]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2019.09.26-10.15.01:085][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003429s)
+[2019.09.26-10.15.01:133][248]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-10.15.01:148][248]LogInit: FAudioDevice initialized.
+[2019.09.26-10.15.01:157][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.15.01:195][248]LogLoad: Game class is 'MyGameMode_C'
+[2019.09.26-10.15.01:197][248]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.09.26-11.15.01
+[2019.09.26-10.15.01:197][248]LogWorld: Bringing up level for play took: 0.000890
+[2019.09.26-10.15.01:208][248]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.15.01:208][248]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.09.26-10.15.01:208][248]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.15.01:210][248]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.09.26-10.15.01:212][248]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.436
+[2019.09.26-10.15.02:350][329]LogBlueprintUserMessages: [TestCone_2] Interaction Possible: Cone
+[2019.09.26-10.15.02:353][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.26-10.15.03:267][399]LogBlueprintUserMessages: [Examine_UI_C_0] -45.0
+[2019.09.26-10.15.03:432][412]LogBlueprintUserMessages: [Examine_UI_C_0] -90.0
+[2019.09.26-10.15.05:061][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-10.15.05:075][538]LogSlate: Window 'TeamFellowship Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.09.26-10.15.05:102][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-10.15.05:162][540]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.09.26-10.15.13:387][368]BlueprintLog: New page: Compile Examine_UI
+[2019.09.26-11.07.29:448][721]LogSlate: Window 'Message' being destroyed
+[2019.09.26-11.07.29:950][721]LogMaterial: Display: Missing cached shader map for material arrow_Mat, compiling. 
+[2019.09.26-11.07.29:996][721]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.09.26-11.07.29:996][721]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.26-11.07.29:996][721]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.09.26-11.07.29:996][721]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.09.26-11.07.30:035][721]LogMaterial: Display: Missing cached shader map for material arrow_Mat, compiling. 
+[2019.09.26-11.07.30:051][721]LogMaterial: Display: Missing cached shader map for material arrow_Mat, compiling. 
+[2019.09.26-11.07.30:118][721]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy arrow_Mat, compiling. 
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.09.26-11.07.31:596][721]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.09.26-11.07.31:597][721]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.09.26-11.07.31:603][721]TextureStreamingBuild: Display: Compiling optional shaders took 1.505 seconds.
+[2019.09.26-11.07.33:588][721]LogSlate: Window 'Save Content' being destroyed
+[2019.09.26-11.07.34:088][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Placeholder/arrow_Mat" FILE="../../../../../../../Unreal Projects/TeamFellowship/Content/Placeholder/arrow_Mat.uasset" SILENT=true
+[2019.09.26-11.07.34:110][721]LogSavePackage: Moving '../../../../../../../Unreal Projects/TeamFellowship/Saved/arrow_Mat7C59974E4E8B931EA01105BCED4E3967.tmp' to '../../../../../../../Unreal Projects/TeamFellowship/Content/Placeholder/arrow_Mat.uasset'
+[2019.09.26-11.07.34:513][721]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.09.26-11.07.34:581][721]LogSlate: Window 'TeamFellowship - Unreal Editor' being destroyed
+[2019.09.26-11.07.34:769][722]Cmd: QUIT_EDITOR
+[2019.09.26-11.07.34:823][722]LogExit: Preparing to exit.
+[2019.09.26-11.07.35:280][722]LogDirectoryWatcher: A directory notification failed for 'A:/Unreal Projects/TeamFellowship/Content/', and we were unable to create a new request.
+[2019.09.26-11.07.35:325][722]LogExit: Editor shut down
+[2019.09.26-11.07.35:325][722]LogExit: Transaction tracking system shut down
+[2019.09.26-11.07.35:818][722]LogExit: Object subsystem successfully closed.
+[2019.09.26-11.07.35:842][722]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.09.26-11.07.35:843][722]LogD3D11RHI: Shutdown
+[2019.09.26-11.07.35:843][722]LogD3D11RHI: CleanupD3DDevice
+[2019.09.26-11.07.35:858][722]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.09.26-11.07.35:867][722]LogModuleManager: Shutting down and abandoning module TextureEditor (620)
+[2019.09.26-11.07.35:867][722]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2019.09.26-11.07.35:867][722]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2019.09.26-11.07.35:878][722]LogModuleManager: Shutting down and abandoning module SequencerWidgets (614)
+[2019.09.26-11.07.35:878][722]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2019.09.26-11.07.35:878][722]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.09.26-11.07.35:878][722]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.09.26-11.07.35:878][722]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.09.26-11.07.35:878][722]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.09.26-11.07.35:879][722]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.09.26-11.07.35:880][722]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.09.26-11.07.35:880][722]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.09.26-11.07.35:880][722]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.09.26-11.07.35:880][722]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.09.26-11.07.35:880][722]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.09.26-11.07.35:880][722]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.09.26-11.07.35:880][722]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.09.26-11.07.35:880][722]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.09.26-11.07.35:880][722]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.09.26-11.07.37:212][722]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.09.26-11.07.37:253][722]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.09.26-11.07.37:253][722]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.09.26-11.07.37:253][722]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.09.26-11.07.37:253][722]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.09.26-11.07.37:253][722]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.09.26-11.07.37:253][722]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.09.26-11.07.37:253][722]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.09.26-11.07.37:253][722]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.09.26-11.07.37:253][722]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.09.26-11.07.37:253][722]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.09.26-11.07.37:260][722]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.09.26-11.07.37:261][722]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.09.26-11.07.37:432][722]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.09.26-11.07.37:432][722]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.09.26-11.07.37:432][722]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.09.26-11.07.37:432][722]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.09.26-11.07.37:432][722]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.09.26-11.07.37:433][722]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.09.26-11.07.37:433][722]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.09.26-11.07.37:433][722]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.09.26-11.07.37:433][722]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.09.26-11.07.37:433][722]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.09.26-11.07.37:433][722]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.09.26-11.07.37:433][722]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.09.26-11.07.37:433][722]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.09.26-11.07.37:433][722]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.09.26-11.07.37:433][722]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.09.26-11.07.37:433][722]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.09.26-11.07.37:433][722]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.09.26-11.07.37:433][722]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.09.26-11.07.37:448][722]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.09.26-11.07.37:448][722]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.09.26-11.07.37:448][722]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.09.26-11.07.37:448][722]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.09.26-11.07.37:449][722]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.09.26-11.07.37:449][722]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.09.26-11.07.37:449][722]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.09.26-11.07.37:449][722]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.09.26-11.07.37:449][722]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.09.26-11.07.37:449][722]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.09.26-11.07.37:449][722]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.09.26-11.07.37:449][722]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.09.26-11.07.37:450][722]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.09.26-11.07.37:450][722]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.09.26-11.07.37:450][722]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.09.26-11.07.37:450][722]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.09.26-11.07.37:450][722]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.09.26-11.07.37:451][722]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.09.26-11.07.37:451][722]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.09.26-11.07.37:451][722]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.09.26-11.07.37:451][722]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.09.26-11.07.37:451][722]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.09.26-11.07.37:451][722]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.09.26-11.07.37:451][722]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.09.26-11.07.37:451][722]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.09.26-11.07.37:451][722]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.09.26-11.07.37:452][722]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.09.26-11.07.37:452][722]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.09.26-11.07.37:452][722]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.09.26-11.07.37:452][722]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.09.26-11.07.37:452][722]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.09.26-11.07.37:452][722]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.09.26-11.07.37:452][722]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.09.26-11.07.37:452][722]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.09.26-11.07.37:452][722]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.09.26-11.07.37:452][722]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.09.26-11.07.37:452][722]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.09.26-11.07.37:452][722]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.09.26-11.07.37:453][722]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.09.26-11.07.37:453][722]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.09.26-11.07.37:453][722]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.09.26-11.07.37:553][722]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.09.26-11.07.37:653][722]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.09.26-11.07.37:653][722]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.09.26-11.07.37:653][722]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.09.26-11.07.37:653][722]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.09.26-11.07.37:653][722]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.09.26-11.07.37:653][722]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.09.26-11.07.37:653][722]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.09.26-11.07.37:656][722]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.09.26-11.07.37:656][722]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.09.26-11.07.37:656][722]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.09.26-11.07.37:657][722]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.09.26-11.07.37:657][722]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.09.26-11.07.37:660][722]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.09.26-11.07.37:660][722]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.09.26-11.07.37:661][722]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.09.26-11.07.37:661][722]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.09.26-11.07.37:661][722]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.09.26-11.07.37:661][722]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.09.26-11.07.37:662][722]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.09.26-11.07.37:670][722]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.09.26-11.07.37:670][722]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.09.26-11.07.37:670][722]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.09.26-11.07.37:670][722]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.09.26-11.07.37:670][722]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.09.26-11.07.37:670][722]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.09.26-11.07.37:671][722]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.09.26-11.07.37:671][722]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.09.26-11.07.37:671][722]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.09.26-11.07.37:671][722]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.09.26-11.07.37:671][722]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.09.26-11.07.37:671][722]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.09.26-11.07.37:671][722]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.09.26-11.07.37:671][722]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.09.26-11.07.37:671][722]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.09.26-11.07.37:671][722]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.09.26-11.07.37:672][722]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.09.26-11.07.37:672][722]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.09.26-11.07.37:672][722]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.09.26-11.07.37:672][722]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.09.26-11.07.37:678][722]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.09.26-11.07.37:678][722]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.09.26-11.07.37:678][722]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.09.26-11.07.37:678][722]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.09.26-11.07.37:678][722]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.09.26-11.07.37:678][722]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.09.26-11.07.37:678][722]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.09.26-11.07.37:678][722]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.09.26-11.07.37:678][722]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.09.26-11.07.37:678][722]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.09.26-11.07.37:678][722]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.09.26-11.07.37:678][722]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.09.26-11.07.37:679][722]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.09.26-11.07.37:679][722]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.09.26-11.07.37:679][722]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.09.26-11.07.37:679][722]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.09.26-11.07.37:679][722]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.09.26-11.07.37:679][722]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.09.26-11.07.37:754][722]LogDerivedDataCache: Shutdown
+[2019.09.26-11.07.37:754][722]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.09.26-11.07.37:754][722]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.09.26-11.07.37:754][722]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.09.26-11.07.37:754][722]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.09.26-11.07.37:755][722]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.09.26-11.07.37:755][722]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.09.26-11.07.37:755][722]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.09.26-11.07.37:755][722]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.09.26-11.07.37:755][722]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.09.26-11.07.37:755][722]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.09.26-11.07.37:755][722]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.09.26-11.07.37:755][722]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.09.26-11.07.37:755][722]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.09.26-11.07.37:755][722]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.09.26-11.07.37:755][722]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.09.26-11.07.37:755][722]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.09.26-11.07.37:756][722]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.09.26-11.07.37:756][722]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.09.26-11.07.37:756][722]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.09.26-11.07.37:756][722]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.09.26-11.07.37:756][722]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.09.26-11.07.37:756][722]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.09.26-11.07.37:756][722]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.09.26-11.07.37:758][722]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.09.26-11.07.37:758][722]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.09.26-11.07.37:760][722]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.09.26-11.07.37:760][722]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.09.26-11.07.37:777][722]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.09.26-11.07.37:777][722]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.09.26-11.07.37:777][722]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.09.26-11.07.37:777][722]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.09.26-11.07.37:777][722]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.09.26-11.07.37:777][722]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.09.26-11.07.37:777][722]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.09.26-11.07.37:777][722]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.09.26-11.07.37:777][722]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.09.26-11.07.37:777][722]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.09.26-11.07.37:777][722]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.09.26-11.07.37:778][722]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.09.26-11.07.37:778][722]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.09.26-11.07.37:778][722]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.09.26-11.07.37:778][722]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.09.26-11.07.37:778][722]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.09.26-11.07.37:778][722]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.09.26-11.07.37:778][722]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.09.26-11.07.37:780][722]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.09.26-11.07.37:780][722]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.09.26-11.07.37:790][722]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.09.26-11.07.37:790][722]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.09.26-11.07.37:790][722]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36A9359A-4704-4011-5D00-D69C41DFCD91%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=81269a9041c388269cf2cdb50be44fe6%7C0a0b6f3d74cb41bf8a33a4f4deda6375%7C37edb8db-99b2-4da5-a39a-47e69b96fc3a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.09.26-11.07.37:790][722]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36A9359A-4704-4011-5D00-D69C41DFCD91%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=81269a9041c388269cf2cdb50be44fe6%7C0a0b6f3d74cb41bf8a33a4f4deda6375%7C37edb8db-99b2-4da5-a39a-47e69b96fc3a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.09.26-11.07.37:812][722]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.09.26-11.07.37:814][722]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.09.26-11.07.37:815][722]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.09.26-11.07.37:815][722]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.09.26-11.07.37:815][722]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.09.26-11.07.37:815][722]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.09.26-11.07.37:815][722]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.09.26-11.07.37:815][722]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.09.26-11.07.37:815][722]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.09.26-11.07.37:815][722]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.09.26-11.07.37:815][722]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.09.26-11.07.37:816][722]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.09.26-11.07.37:816][722]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.09.26-11.07.37:816][722]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.09.26-11.07.37:816][722]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.09.26-11.07.37:816][722]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.09.26-11.07.37:816][722]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.09.26-11.07.37:816][722]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.09.26-11.07.37:816][722]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.09.26-11.07.37:818][722]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.09.26-11.07.37:818][722]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.09.26-11.07.37:819][722]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.09.26-11.07.37:819][722]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.09.26-11.07.37:819][722]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.09.26-11.07.37:819][722]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.09.26-11.07.37:819][722]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.09.26-11.07.37:819][722]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.09.26-11.07.37:819][722]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.09.26-11.07.37:819][722]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.09.26-11.07.37:819][722]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.09.26-11.07.37:835][722]LogExit: Exiting.
+[2019.09.26-11.07.37:838][722]Log file closed, 09/26/19 12:07:37
