@@ -1,0 +1,956 @@
+﻿Log file open, 10/14/19 11:07:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TeamFellowship
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.288723
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.334s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epiclocale=en-US
+LogInit: Base Directory: D:/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.041s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.10.14-10.07.23:190][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.14-10.07.23:190][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.14-10.07.23:334][  0]LogHAL: Display: Platform has ~ 8 GB [8480378880 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.14-10.07.23:334][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.10.14-10.07.23:334][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.14-10.07.23:335][  0]LogInit: Computer: DESKTOP-MR7B4EC
+[2019.10.14-10.07.23:335][  0]LogInit: User: SnowQueen
+[2019.10.14-10.07.23:335][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.14-10.07.23:335][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.14-10.07.23:335][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.10.14-10.07.23:335][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.14-10.07.23:335][  0]LogMemory: Process Physical Memory: 104.71 MB used, 104.72 MB peak
+[2019.10.14-10.07.23:335][  0]LogMemory: Process Virtual Memory: 89.31 MB used, 89.31 MB peak
+[2019.10.14-10.07.23:335][  0]LogMemory: Physical Memory: 5358.89 MB used,  2728.63 MB free, 8087.52 MB total
+[2019.10.14-10.07.23:335][  0]LogMemory: Virtual Memory: 4613.17 MB used,  2728.63 MB free, 134217728.00 MB total
+[2019.10.14-10.07.23:391][  0]LogInit: Using OS detected language (en-US).
+[2019.10.14-10.07.23:391][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.14-10.07.23:392][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.14-10.07.23:827][  0]LogStreaming: Display: Took  0.437s to InitEngineTextLocalization.
+[2019.10.14-10.07.23:828][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.14-10.07.23:906][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.14-10.07.23:906][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.14-10.07.24:180][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.14-10.07.24:180][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.14-10.07.24:247][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.10.14-10.07.24:247][  0]LogD3D11RHI:       4065/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.14-10.07.24:257][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.10.14-10.07.24:257][  0]LogD3D11RHI:       128/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.14-10.07.24:261][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.14-10.07.24:261][  0]LogD3D11RHI:       0/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.14-10.07.24:261][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.14-10.07.24:291][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.14-10.07.24:292][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.10.14-10.07.24:292][  0]LogWindows: EnumDisplayDevices:
+[2019.10.14-10.07.24:292][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.10.14-10.07.24:292][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.14-10.07.24:293][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.14-10.07.24:293][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.10.14-10.07.24:293][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.10.14-10.07.24:293][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.10.14-10.07.24:293][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.10.14-10.07.24:294][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2019.10.14-10.07.24:349][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.14-10.07.24:362][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.14-10.07.24:364][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../Team Fellowship group project/TeamFellowship/Intermediate/Shaders/WorkingDirectory/9164/).
+[2019.10.14-10.07.24:364][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SnowQueen/AppData/Local/Temp/UnrealShaderWorkingDir/41A5825C4920C5C66396B593B9683638/'.
+[2019.10.14-10.07.24:762][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.10.14-10.07.24:780][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.10.14-10.07.24:796][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.10.14-10.07.24:862][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.10.14-10.07.24:881][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.10.14-10.07.24:896][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.10.14-10.07.24:913][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.10.14-10.07.24:932][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.10.14-10.07.24:940][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.14-10.07.25:037][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.10.14-10.07.25:107][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.14-10.07.25:107][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.14-10.07.25:141][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.14-10.07.25:141][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.14-10.07.25:158][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.10.14-10.07.25:180][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.10.14-10.07.25:197][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.10.14-10.07.25:216][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.10.14-10.07.25:228][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.14-10.07.25:228][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.14-10.07.25:296][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.14-10.07.25:296][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.14-10.07.25:296][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.14-10.07.26:310][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.14-10.07.26:407][  0]LogDerivedDataCache: Loaded boot cache 0.10s 71MB C:/Users/SnowQueen/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.10.14-10.07.26:408][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SnowQueen/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.10.14-10.07.26:409][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Team Fellowship group project/TeamFellowship/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.14-10.07.26:409][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.14-10.07.26:409][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Team Fellowship group project/TeamFellowship/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.14-10.07.26:409][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.14-10.07.26:429][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.14-10.07.26:461][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SnowQueen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.14-10.07.26:461][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.14-10.07.26:461][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.14-10.07.26:487][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.14-10.07.26:489][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.14-10.07.26:490][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.14-10.07.26:579][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2019.10.14-10.07.26:969][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.14-10.07.27:033][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.10.14-10.07.27:037][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.10.14-10.07.27:037][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.14-10.07.27:037][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.14-10.07.27:037][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.10.14-10.07.27:164][  0]LogNetVersion: TeamFellowship 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 626393079)
+[2019.10.14-10.07.27:900][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.103039 seconds
+[2019.10.14-10.07.27:910][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.10.14-10.07.27:910][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.10.14-10.07.27:910][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.14-10.07.29:543][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.14-10.07.29:573][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.14-10.07.30:385][  0]SourceControl: Source control is disabled
+[2019.10.14-10.07.30:385][  0]SourceControl: Source control is disabled
+[2019.10.14-10.07.30:404][  0]SourceControl: Source control is disabled
+[2019.10.14-10.07.30:422][  0]SourceControl: Source control is disabled
+[2019.10.14-10.07.31:326][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.14-10.07.31:545][  0]LogOcInput: OculusInput pre-init called
+[2019.10.14-10.07.31:820][  0]LogEngine: Initializing Engine...
+[2019.10.14-10.07.31:822][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.14-10.07.31:823][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.14-10.07.31:823][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.14-10.07.31:823][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.14-10.07.31:823][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.14-10.07.32:061][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.14-10.07.32:090][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.14-10.07.32:108][  0]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-10.07.32:530][  0]LogInit: FAudioDevice initialized.
+[2019.10.14-10.07.32:531][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.14-10.07.33:800][  0]LogDerivedDataCache: Saved boot cache 1.27s 71MB C:/Users/SnowQueen/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.10.14-10.07.33:808][  0]LogInit: Texture streaming: Enabled
+[2019.10.14-10.07.33:905][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.14-10.07.33:922][  0]LogInit: Transaction tracking system initialized
+[2019.10.14-10.07.34:160][  0]BlueprintLog: New page: Editor Load
+[2019.10.14-10.07.35:612][  0]LocalizationService: Localization service is disabled
+[2019.10.14-10.07.36:281][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.14-10.07.36:281][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.14-10.07.36:281][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.10.14-10.07.36:281][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.14-10.07.36:281][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.14-10.07.36:281][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.14-10.07.36:281][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.14-10.07.37:306][  0]LogFileCache: Scanning file cache for directory 'D:/Team Fellowship group project/TeamFellowship/Content/' took 0.01s
+[2019.10.14-10.07.37:333][  0]SourceControl: Source control is disabled
+[2019.10.14-10.07.37:333][  0]Cmd: MAP LOAD FILE="../../../../Team Fellowship group project/TeamFellowship/Content/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.14-10.07.37:379][  0]LightingResults: New page: Lighting Build
+[2019.10.14-10.07.37:381][  0]MapCheck: New page: Map Check
+[2019.10.14-10.07.37:381][  0]LightingResults: New page: Lighting Build
+[2019.10.14-10.07.44:186][  0]LogTexture: Display: Building textures: poster_emissive (BGRA8, 3508X4961)
+[2019.10.14-10.07.44:186][  0]LogTexture: Display: Building textures: Receipe (AutoDXT, 1000X500)
+[2019.10.14-10.07.44:186][  0]LogTexture: Display: Building textures: Receipe_op (AutoDXT, 1000X500)
+[2019.10.14-10.07.44:186][  0]LogTexture: Display: Building textures: poster_op (BGRA8, 3508X4961)
+[2019.10.14-10.07.44:186][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.10.14-10.07.44:186][  0]LogTexture: Display: Building textures: poster (BGRA8, 3508X4961)
+[2019.10.14-10.07.44:186][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.10.14-10.07.44:186][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.10.14-10.07.44:186][  0]LogStaticMesh: Building static mesh Pin_Placeholder...
+[2019.10.14-10.07.45:196][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.10.14-10.07.45:196][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.10.14-10.07.45:196][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X512)
+[2019.10.14-10.07.45:196][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.10.14-10.07.45:196][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X256)
+[2019.10.14-10.07.45:196][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2019.10.14-10.07.45:196][  0]LogTexture: Display: Building textures: alembic_op (AutoDXT, 488X180)
+[2019.10.14-10.07.45:196][  0]LogTexture: Display: Building textures: alembic (AutoDXT, 488X180)
+[2019.10.14-10.07.45:196][  0]LogStaticMesh: Built static mesh [1.06s] /Game/Placeholder/Pin_Placeholder.Pin_Placeholder
+[2019.10.14-10.07.48:320][  0]LogTexture: Display: Building textures: Blackboard_texture (AutoDXT, 2048X2048)
+[2019.10.14-10.07.48:492][  0]LogStaticMesh: Building static mesh Lever_Placeholder...
+[2019.10.14-10.07.48:494][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Placeholder/Lever_Placeholder.Lever_Placeholder
+[2019.10.14-10.07.49:208][  0]LogStaticMesh: Building static mesh Bookcase_Door_Placeholder...
+[2019.10.14-10.07.49:212][  0]LogStaticMesh: Built static mesh [0.07s] /Game/Placeholder/Bookcase_Door_Placeholder.Bookcase_Door_Placeholder
+[2019.10.14-10.07.51:333][  0]LogMaterial: Display: Missing cached shader map for material Poster_Emissive_Mat, compiling. 
+[2019.10.14-10.07.52:123][  0]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.10.14-10.07.52:123][  0]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.10.14-10.07.52:123][  0]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.14-10.07.52:123][  0]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.14-10.07.52:123][  0]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.14-10.07.52:123][  0]LogStaticMesh: Building static mesh Poster_3DModel...
+[2019.10.14-10.07.52:124][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Poster/Poster_3DModel.Poster_3DModel
+[2019.10.14-10.07.52:598][  0]LogMaterial: Display: Missing cached shader map for material Material__25, compiling. 
+[2019.10.14-10.07.52:652][  0]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2019.10.14-10.07.52:801][  0]LogStaticMesh: Building static mesh Recipe_3DModel...
+[2019.10.14-10.07.52:802][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Recipe/Recipe_3DModel.Recipe_3DModel
+[2019.10.14-10.07.52:943][  0]LogMaterial: Display: Missing cached shader map for material Material__25, compiling. 
+[2019.10.14-10.07.53:126][  0]LogStaticMesh: Building static mesh alembic_3DModel...
+[2019.10.14-10.07.53:205][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Meshes/Alembic/alembic_3DModel.alembic_3DModel
+[2019.10.14-10.07.54:442][  0]LogStaticMesh: Building static mesh BlackBoard_3DModel...
+[2019.10.14-10.07.54:447][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Blackboard/BlackBoard_3DModel.BlackBoard_3DModel
+[2019.10.14-10.07.54:504][  0]LogMaterial: Display: Missing cached shader map for material Material__27, compiling. 
+[2019.10.14-10.07.54:921][  0]LogMaterial: Display: Missing cached shader map for material Blue_Mat, compiling. 
+[2019.10.14-10.07.54:992][  0]LogMaterial: Display: Missing cached shader map for material Gold_Mat, compiling. 
+[2019.10.14-10.07.55:020][  0]LogMaterial: Display: Missing cached shader map for material Poster_NoEmissive_Mat, compiling. 
+[2019.10.14-10.07.55:066][  0]LogMaterial: Display: Missing cached shader map for material Red_Mat, compiling. 
+[2019.10.14-10.07.56:564][  0]LogAIModule: Creating AISystem for world MainLevel
+[2019.10.14-10.07.57:366][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.14-10.07.57:424][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.14-10.07.57:640][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 215.916ms to complete.
+[2019.10.14-10.07.57:640][  0]LogFileHelpers: Loading map 'MainLevel' took 20.307
+[2019.10.14-10.08.00:013][  0]LogShaderCompilers: Display: Shaders left to compile 263
+[2019.10.14-10.08.00:013][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.08.00:145][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.08.00:161][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.08.00:177][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.08.00:393][  0]LogCollectionManager: Loaded 0 collections in 0.002510 seconds
+[2019.10.14-10.08.00:849][  0]LogFileCache: Scanning file cache for directory 'D:/Team Fellowship group project/TeamFellowship/Saved/Collections/' took 0.01s
+[2019.10.14-10.08.00:849][  0]LogFileCache: Scanning file cache for directory 'D:/Team Fellowship group project/TeamFellowship/Content/Developers/SnowQueen/Collections/' took 0.01s
+[2019.10.14-10.08.00:849][  0]LogFileCache: Scanning file cache for directory 'D:/Team Fellowship group project/TeamFellowship/Content/Collections/' took 0.01s
+[2019.10.14-10.08.00:849][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.10.14-10.08.00:888][  0]LogContentBrowser: Native class hierarchy populated in 0.0288 seconds. Added 2572 classes and 603 folders.
+[2019.10.14-10.08.01:189][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.10.14-10.08.03:858][  0]LogShaderCompilers: Display: Shaders left to compile 253
+[2019.10.14-10.08.03:858][  0]LogShaderCompilers: Display: Shaders left to compile 243
+[2019.10.14-10.08.03:858][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.10.14-10.08.04:107][  0]LogShaderCompilers: Display: Shaders left to compile 233
+[2019.10.14-10.08.04:107][  0]LogShaderCompilers: Display: Shaders left to compile 223
+[2019.10.14-10.08.04:107][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.10.14-10.08.07:478][  0]LogShaderCompilers: Display: Shaders left to compile 213
+[2019.10.14-10.08.07:478][  0]LogShaderCompilers: Display: Shaders left to compile 203
+[2019.10.14-10.08.07:479][  0]LogShaderCompilers: Display: Shaders left to compile 193
+[2019.10.14-10.08.07:479][  0]LogSlate: Took 0.033987 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.14-10.08.07:526][  0]LogSlate: Took 0.035594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.14-10.08.07:720][  0]LogShaderCompilers: Display: Shaders left to compile 183
+[2019.10.14-10.08.07:720][  0]LogSlate: Took 0.037840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.14-10.08.09:314][  0]LogShaderCompilers: Display: Shaders left to compile 173
+[2019.10.14-10.08.09:314][  0]LogShaderCompilers: Display: Shaders left to compile 163
+[2019.10.14-10.08.09:314][  0]LogRenderer: Reallocating scene render targets to support 1200x656 Format 10 NumSamples 1 (Frame:1).
+[2019.10.14-10.08.10:934][  0]LogSlate: Took 0.017807 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.14-10.08.11:413][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.14-10.08.11:413][  0]LogLoad: (Engine Initialization) Total time: 53.90 seconds
+[2019.10.14-10.08.11:413][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.14-10.08.11:698][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.14-10.08.11:989][  1]LogShaderCompilers: Display: Shaders left to compile 153
+[2019.10.14-10.08.12:165][  2]LogShaderCompilers: Display: Shaders left to compile 143
+[2019.10.14-10.08.12:370][  3]LogAssetRegistry: Asset discovery search completed in 45.8131 seconds
+[2019.10.14-10.08.12:374][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.10.14-10.08.12:375][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000192 seconds (updated 0 objects)
+[2019.10.14-10.08.12:641][  5]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.10.14-10.08.12:740][  6]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.14-10.08.15:287][135]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.10.14-10.08.16:096][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.08.16:873][210]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.10.14-10.08.17:294][225]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.10.14-10.08.18:026][253]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.10.14-10.08.20:812][416]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.10.14-10.08.21:061][431]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.10.14-10.08.21:405][451]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.10.14-10.08.23:563][579]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.10.14-10.08.25:627][702]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.10.14-10.08.26:235][737]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.10.14-10.08.29:233][916]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.14-10.08.29:743][946]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.14-10.08.31:389][ 43]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.14-10.09.39:894][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.09.39:960][495]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-10.09.40:076][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-10.09.40:190][495]PIE: New page: PIE session: MainLevel (Oct 14, 2019, 12:09:40 PM)
+[2019.10.14-10.09.40:191][495]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.10.14-10.09.40:284][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092679s)
+[2019.10.14-10.09.40:287][495]LogAIModule: Creating AISystem for world MainLevel
+[2019.10.14-10.09.40:287][495]LogPlayLevel: PIE: World Init took: (0.003512s)
+[2019.10.14-10.09.40:320][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.128939s)
+[2019.10.14-10.09.40:476][495]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-10.09.40:584][495]LogInit: FAudioDevice initialized.
+[2019.10.14-10.09.40:801][495]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.14-10.09.40:860][495]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2019.10.14-11.09.40
+[2019.10.14-10.09.40:912][495]LogWorld: Bringing up level for play took: 0.060748
+[2019.10.14-10.09.41:158][495]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.10.14-10.09.41:169][495]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.09.41:179][495]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.09.41:179][495]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.09.41:217][495]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.09.41:217][495]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.09.41:394][495]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.09.41:404][495]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 2.129
+[2019.10.14-10.09.41:583][495]LogBlueprintUserMessages: [LockUI_C_0] Cast
+[2019.10.14-10.09.41:583][495]LogBlueprintUserMessages: [DeskLockUI_C_0] Cast
+[2019.10.14-10.09.41:583][495]LogBlueprintUserMessages: [CabinetLockUI_C_0] Cast
+[2019.10.14-10.09.41:952][496]LogRenderer: Reallocating scene render targets to support 1200x1028 Format 10 NumSamples 1 (Frame:1).
+[2019.10.14-10.10.11:669][142]LogBlueprintUserMessages: [BP_Bookcase_2] Hello
+[2019.10.14-10.10.14:397][284]LogBlueprintUserMessages: [BP_Bookcase_2] Hello
+[2019.10.14-10.10.24:420][835]LogBlueprintUserMessages: [BP_Pin_2] 50.0
+[2019.10.14-10.10.24:420][835]LogBlueprintUserMessages: [BP_FuzeManager2_2] Incorrect
+[2019.10.14-10.10.26:367][939]LogBlueprintUserMessages: [BP_Pin_2] 75.0
+[2019.10.14-10.10.26:367][939]LogBlueprintUserMessages: [BP_FuzeManager2_2] Incorrect
+[2019.10.14-10.10.27:566][  3]LogBlueprintUserMessages: [BP_Pin_2] 105.0
+[2019.10.14-10.10.27:566][  3]LogBlueprintUserMessages: [BP_FuzeManager2_2] Incorrect
+[2019.10.14-10.10.29:258][ 93]LogBlueprintUserMessages: [BP_Pin_2] 145.0
+[2019.10.14-10.10.29:258][ 93]LogBlueprintUserMessages: [BP_FuzeManager2_2] Incorrect
+[2019.10.14-10.10.31:505][217]LogBlueprintUserMessages: [BP_Pin_2] 180.0
+[2019.10.14-10.10.31:505][217]LogBlueprintUserMessages: [BP_FuzeManager2_2] Correct
+[2019.10.14-10.10.32:809][291]LogBlueprintUserMessages: [BP_Pin_2] 140.0
+[2019.10.14-10.10.32:809][291]LogBlueprintUserMessages: [BP_FuzeManager2_2] Correct
+[2019.10.14-10.10.35:675][454]LogBlueprintUserMessages: [BP_Pin_2] 105.0
+[2019.10.14-10.10.35:675][454]LogBlueprintUserMessages: [BP_FuzeManager2_2] Incorrect
+[2019.10.14-10.10.36:686][511]LogBlueprintUserMessages: [BP_Pin_2] 145.0
+[2019.10.14-10.10.36:686][511]LogBlueprintUserMessages: [BP_FuzeManager2_2] Incorrect
+[2019.10.14-10.10.37:938][582]LogBlueprintUserMessages: [BP_Pin_2] 120.0
+[2019.10.14-10.10.37:938][582]LogBlueprintUserMessages: [BP_FuzeManager2_2] Incorrect
+[2019.10.14-10.10.39:339][662]LogBlueprintUserMessages: [BP_Pin_2] 90.0
+[2019.10.14-10.10.39:339][662]LogBlueprintUserMessages: [BP_FuzeManager2_2] Incorrect
+[2019.10.14-10.10.40:134][707]LogBlueprintUserMessages: [BP_Pin_2] 115.0
+[2019.10.14-10.10.40:134][707]LogBlueprintUserMessages: [BP_FuzeManager2_2] Incorrect
+[2019.10.14-10.10.41:202][766]LogBlueprintUserMessages: [BP_Pin_2] 150.0
+[2019.10.14-10.10.41:203][766]LogBlueprintUserMessages: [BP_FuzeManager2_2] Correct
+[2019.10.14-10.10.42:417][836]LogBlueprintUserMessages: [BP_Pin_2] 180.0
+[2019.10.14-10.10.42:417][836]LogBlueprintUserMessages: [BP_FuzeManager2_2] Correct
+[2019.10.14-10.10.43:462][895]LogBlueprintUserMessages: [BP_Pin_2] 140.0
+[2019.10.14-10.10.43:462][895]LogBlueprintUserMessages: [BP_FuzeManager2_2] Correct
+[2019.10.14-10.11.04:753][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.11.07:704][235]LogBlueprintUserMessages: [DeskCodeLock_2] 1
+[2019.10.14-10.11.08:179][261]LogBlueprintUserMessages: [DeskCodeLock_2] 1
+[2019.10.14-10.11.08:967][304]LogBlueprintUserMessages: [DeskCodeLock_2] 3
+[2019.10.14-10.11.09:839][351]LogBlueprintUserMessages: [DeskCodeLock_2] 2
+[2019.10.14-10.11.48:089][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.11.48:199][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-10.11.48:239][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.11.48:241][412]LogSlate: Slate User Unregistered.  User Index 8
+[2019.10.14-10.11.48:242][412]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.11.48:295][413]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.14-10.12.01:357][166]LogEditorViewport: Clicking on Actor (LMB): BP_BookcaseDoor_C (BP_BookcaseDoor)
+[2019.10.14-10.12.12:701][740]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_BookcaseDoor_C (BP_BookcaseDoor)
+[2019.10.14-10.12.15:761][902]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_BookcaseSwitch_C (BP_BookcaseSwitch)
+[2019.10.14-10.12.16:640][951]LogEditorViewport: Clicking on Actor (CTRL LMB): Book_Placeholder_C (Book_Placeholder3)
+[2019.10.14-10.12.17:769][ 14]LogEditorViewport: Clicking on Actor (CTRL LMB): Book_Placeholder_C (Book_Placeholder5)
+[2019.10.14-10.12.18:444][ 50]LogEditorViewport: Clicking on Actor (CTRL LMB): Book_Placeholder_C (Book_Placeholder4)
+[2019.10.14-10.12.19:084][ 84]LogEditorViewport: Clicking on Actor (CTRL LMB): Book_Placeholder_C (Book_Placeholder6)
+[2019.10.14-10.12.19:570][109]LogEditorViewport: Clicking on Actor (CTRL LMB): Book_Placeholder_C (Book_Placeholder7)
+[2019.10.14-10.12.20:042][133]LogEditorViewport: Clicking on Actor (CTRL LMB): Book_Placeholder_C (Book_Placeholder2)
+[2019.10.14-10.12.22:548][264]LogEditorViewport: Clicking on Actor (CTRL LMB): Book_Placeholder_C (Book_Placeholder)
+[2019.10.14-10.12.23:175][297]LogEditorViewport: Clicking on Actor (context menu): Book_Placeholder_C (Book_Placeholder)
+[2019.10.14-10.12.23:375][297]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.12.40:403][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.10.14-10.12.42:218][314]Cmd: DELETE
+[2019.10.14-10.12.42:218][314]Cmd: ACTOR DELETE
+[2019.10.14-10.12.42:400][314]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.14-10.12.42:426][314]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.10.14-10.12.56:042][ 55]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor12)
+[2019.10.14-10.12.56:179][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.12.57:635][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-10.12.57:635][135]PIE: New page: PIE session: MainLevel (Oct 14, 2019, 12:12:57 PM)
+[2019.10.14-10.12.57:635][135]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.10.14-10.12.57:659][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023974s)
+[2019.10.14-10.12.57:660][135]LogAIModule: Creating AISystem for world MainLevel
+[2019.10.14-10.12.57:660][135]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2019.10.14-10.12.57:660][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.025092s)
+[2019.10.14-10.12.57:693][135]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-10.12.57:802][135]LogInit: FAudioDevice initialized.
+[2019.10.14-10.12.57:802][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.12.57:836][135]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.14-10.12.57:844][135]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2019.10.14-11.12.57
+[2019.10.14-10.12.57:844][135]LogWorld: Bringing up level for play took: 0.006768
+[2019.10.14-10.12.57:858][135]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.12.57:858][135]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.12.57:858][135]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.12.57:858][135]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.12.57:858][135]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.12.57:860][135]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.12.57:861][135]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.585
+[2019.10.14-10.12.57:861][135]LogBlueprintUserMessages: [LockUI_C_0] Cast
+[2019.10.14-10.12.57:861][135]LogBlueprintUserMessages: [DeskLockUI_C_0] Cast
+[2019.10.14-10.12.57:861][135]LogBlueprintUserMessages: [CabinetLockUI_C_0] Cast
+[2019.10.14-10.13.04:934][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.13.04:978][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-10.13.05:002][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.13.05:004][556]LogSlate: Slate User Unregistered.  User Index 8
+[2019.10.14-10.13.05:004][556]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.13.05:068][558]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.14-10.13.10:164][845]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.13.16:910][241]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush17)
+[2019.10.14-10.13.24:143][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.13.55:244][363]LogGeometryMode: Warning: Unable to find BoxBrush15 Brush(s) in new BSP
+[2019.10.14-10.13.55:244][363]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.10.14-10.13.59:563][596]Cmd: TRANSACTION UNDO
+[2019.10.14-10.13.59:563][596]LogEditorTransaction: Undo Move Actors
+[2019.10.14-10.13.59:649][596]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush21.BrushComponent0) Component already registered.
+[2019.10.14-10.13.59:649][596]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush37.BrushComponent0) Component already registered.
+[2019.10.14-10.13.59:650][596]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2019.10.14-10.13.59:654][596]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2019.10.14-10.13.59:655][596]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2019.10.14-10.13.59:655][596]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2019.10.14-10.13.59:694][596]LogActorComponent: RegisterComponentWithWorld: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush15_1.BrushComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.10.14-10.14.30:482][300]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor12)
+[2019.10.14-10.14.30:556][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.14.32:264][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-10.14.32:264][389]PIE: New page: PIE session: MainLevel (Oct 14, 2019, 12:14:32 PM)
+[2019.10.14-10.14.32:264][389]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.10.14-10.14.32:288][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024233s)
+[2019.10.14-10.14.32:289][389]LogAIModule: Creating AISystem for world MainLevel
+[2019.10.14-10.14.32:290][389]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2019.10.14-10.14.32:290][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.025617s)
+[2019.10.14-10.14.32:322][389]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-10.14.32:431][389]LogInit: FAudioDevice initialized.
+[2019.10.14-10.14.32:431][389]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.14.32:462][389]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.14-10.14.32:471][389]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2019.10.14-11.14.32
+[2019.10.14-10.14.32:472][389]LogWorld: Bringing up level for play took: 0.007459
+[2019.10.14-10.14.32:484][389]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.14.32:484][389]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.14.32:484][389]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.14.32:484][389]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.14.32:485][389]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.14.32:487][389]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.14.32:487][389]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 1.213
+[2019.10.14-10.14.32:488][389]LogBlueprintUserMessages: [LockUI_C_0] Cast
+[2019.10.14-10.14.32:488][389]LogBlueprintUserMessages: [DeskLockUI_C_0] Cast
+[2019.10.14-10.14.32:488][389]LogBlueprintUserMessages: [CabinetLockUI_C_0] Cast
+[2019.10.14-10.14.39:180][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.14.39:226][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-10.14.39:252][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.14.39:254][788]LogSlate: Slate User Unregistered.  User Index 8
+[2019.10.14-10.14.39:254][788]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.14.39:284][789]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.14-10.14.55:003][715]LogEditorViewport: Clicking on Actor (LMB): BP_BookcaseSwitch_C (BP_BookcaseSwitch)
+[2019.10.14-10.15.01:691][ 85]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor12)
+[2019.10.14-10.15.01:762][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.15.02:750][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-10.15.02:750][136]PIE: New page: PIE session: MainLevel (Oct 14, 2019, 12:15:02 PM)
+[2019.10.14-10.15.02:750][136]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.10.14-10.15.02:775][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024740s)
+[2019.10.14-10.15.02:776][136]LogAIModule: Creating AISystem for world MainLevel
+[2019.10.14-10.15.02:776][136]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2019.10.14-10.15.02:776][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.025869s)
+[2019.10.14-10.15.02:805][136]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-10.15.02:914][136]LogInit: FAudioDevice initialized.
+[2019.10.14-10.15.02:914][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.15.02:950][136]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.14-10.15.02:959][136]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2019.10.14-11.15.02
+[2019.10.14-10.15.02:960][136]LogWorld: Bringing up level for play took: 0.008179
+[2019.10.14-10.15.02:973][136]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.15.02:973][136]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.15.02:973][136]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.15.02:973][136]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.15.02:973][136]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.15.02:975][136]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.15.02:976][136]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.3
+[2019.10.14-10.15.02:976][136]LogBlueprintUserMessages: [LockUI_C_0] Cast
+[2019.10.14-10.15.02:976][136]LogBlueprintUserMessages: [DeskLockUI_C_0] Cast
+[2019.10.14-10.15.02:977][136]LogBlueprintUserMessages: [CabinetLockUI_C_0] Cast
+[2019.10.14-10.15.07:379][396]LogBlueprintUserMessages: [Book_Placeholder5] Interaction Possible: Book
+[2019.10.14-10.15.07:382][396]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.15.11:627][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.15.11:680][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-10.15.11:709][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.15.11:711][647]LogSlate: Slate User Unregistered.  User Index 8
+[2019.10.14-10.15.11:711][647]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.15.11:744][648]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.10.14-10.15.15:536][853]LogEditorViewport: Clicking on Actor (LMB): BP_MainRoomLights_C (BP_MainRoomLights)
+[2019.10.14-10.15.16:376][896]LogSlate: Took 0.015003 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.14-10.15.17:259][949]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.15.26:270][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.15.27:110][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.15.27:120][518]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Lights/BP_MainRoomLights.BP_MainRoomLights
+[2019.10.14-10.15.28:256][518]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.10.14-10.15.30:302][518]LogSlate: Took 0.025960 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.14-10.15.32:445][619]LogSlate: Window 'BP_MainRoomLights' being destroyed
+[2019.10.14-10.15.33:471][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.15.39:807][ 42]BlueprintLog: New page: Compile BP_MainRoomLights
+[2019.10.14-10.15.41:096][ 90]LogRenderer: Reallocating scene render targets to support 1284x1028 Format 10 NumSamples 1 (Frame:1).
+[2019.10.14-10.15.47:873][477]LogEditorTransaction: Undo Modify Component(s)
+[2019.10.14-10.15.48:839][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.15.55:410][888]LogEditorTransaction: Undo Modify Component(s)
+[2019.10.14-10.15.59:891][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.16.03:190][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.16.08:325][618]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.16.11:626][783]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.16.26:820][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.16.30:844][845]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.16.40:421][391]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.16.44:465][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.16.45:252][643]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.16.47:022][731]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.16.54:193][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.16.54:378][156]LogSlate: Window 'BP_MainRoomLights*' being destroyed
+[2019.10.14-10.16.57:213][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.17.03:798][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.17.05:639][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.17.08:989][999]LogEditorTransaction: Undo Modify Component(s)
+[2019.10.14-10.17.09:512][ 25]LogEditorTransaction: Undo Modify Component(s)
+[2019.10.14-10.17.11:623][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.17.11:689][154]BlueprintLog: New page: Compile BP_MainRoomLights
+[2019.10.14-10.17.21:451][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.17.29:122][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.17.35:432][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.17.35:530][543]BlueprintLog: New page: Compile BP_MainRoomLights
+[2019.10.14-10.17.41:802][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.17.41:868][895]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-10.17.41:888][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-10.17.41:889][895]PIE: New page: PIE session: MainLevel (Oct 14, 2019, 12:17:41 PM)
+[2019.10.14-10.17.41:889][895]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.10.14-10.17.41:913][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023855s)
+[2019.10.14-10.17.41:914][895]LogAIModule: Creating AISystem for world MainLevel
+[2019.10.14-10.17.41:914][895]LogPlayLevel: PIE: World Init took: (0.001245s)
+[2019.10.14-10.17.41:914][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.025334s)
+[2019.10.14-10.17.41:948][895]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-10.17.42:063][895]LogInit: FAudioDevice initialized.
+[2019.10.14-10.17.42:098][895]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.14-10.17.42:107][895]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2019.10.14-11.17.42
+[2019.10.14-10.17.42:107][895]LogWorld: Bringing up level for play took: 0.007300
+[2019.10.14-10.17.42:121][895]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.17.42:121][895]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.17.42:121][895]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.17.42:121][895]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.17.42:121][895]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.17.42:124][895]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.17.42:124][895]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel 0.849
+[2019.10.14-10.17.42:125][895]LogBlueprintUserMessages: [LockUI_C_0] Cast
+[2019.10.14-10.17.42:125][895]LogBlueprintUserMessages: [DeskLockUI_C_0] Cast
+[2019.10.14-10.17.42:125][895]LogBlueprintUserMessages: [CabinetLockUI_C_0] Cast
+[2019.10.14-10.17.45:158][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.17.45:217][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-10.17.45:251][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.17.45:253][ 44]LogSlate: Slate User Unregistered.  User Index 8
+[2019.10.14-10.17.45:253][ 44]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.17.45:292][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.10.14-10.19.07:532][528]LogEditorViewport: Clicking on Actor (LMB): BP_MainRoomLights_C (BP_MainRoomLights)
+[2019.10.14-10.19.10:071][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.19.16:230][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.19.30:345][869]LogEditorTransaction: Undo Set Location
+[2019.10.14-10.19.31:963][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.19.35:312][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.19.41:259][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.19.45:219][718]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.19.46:994][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.19.47:052][804]BlueprintLog: New page: Compile BP_MainRoomLights
+[2019.10.14-10.19.48:901][892]LogSlate: Window 'BP_MainRoomLights*' being destroyed
+[2019.10.14-10.19.51:335][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../Team Fellowship group project/TeamFellowship/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.14-10.19.51:876][ 25]LogSavePackage: Moving '../../../../Team Fellowship group project/TeamFellowship/Saved/MainLevelF013E0FE439928E0C003BC9DBF5DB6F2.tmp' to '../../../../Team Fellowship group project/TeamFellowship/Content/MainLevel.umap'
+[2019.10.14-10.19.51:909][ 25]LogFileHelpers: Saving map 'MainLevel' took 0.659
+[2019.10.14-10.19.51:914][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lights/BP_MainRoomLights" FILE="../../../../Team Fellowship group project/TeamFellowship/Content/Blueprints/Lights/BP_MainRoomLights.uasset" SILENT=true
+[2019.10.14-10.19.51:974][ 25]LogSavePackage: Moving '../../../../Team Fellowship group project/TeamFellowship/Saved/BP_MainRoomLights639C5FC8438FE306AFA2C39B9CE2F8F4.tmp' to '../../../../Team Fellowship group project/TeamFellowship/Content/Blueprints/Lights/BP_MainRoomLights.uasset'
+[2019.10.14-10.19.52:413][ 50]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-10.19.52:432][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-10.19.52:432][ 50]PIE: New page: PIE session: MainLevel (Oct 14, 2019, 12:19:52 PM)
+[2019.10.14-10.19.52:432][ 50]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.10.14-10.19.52:458][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025745s)
+[2019.10.14-10.19.52:458][ 50]LogAIModule: Creating AISystem for world MainLevel
+[2019.10.14-10.19.52:459][ 50]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2019.10.14-10.19.52:459][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.026793s)
+[2019.10.14-10.19.52:496][ 50]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-10.19.52:602][ 50]LogInit: FAudioDevice initialized.
+[2019.10.14-10.19.52:638][ 50]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.14-10.19.52:649][ 50]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2019.10.14-11.19.52
+[2019.10.14-10.19.52:649][ 50]LogWorld: Bringing up level for play took: 0.008957
+[2019.10.14-10.19.52:662][ 50]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.19.52:662][ 50]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.19.52:662][ 50]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.19.52:662][ 50]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.19.52:662][ 50]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.19.52:665][ 50]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.19.52:665][ 50]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.61
+[2019.10.14-10.19.52:665][ 50]LogBlueprintUserMessages: [LockUI_C_0] Cast
+[2019.10.14-10.19.52:666][ 50]LogBlueprintUserMessages: [DeskLockUI_C_0] Cast
+[2019.10.14-10.19.52:666][ 50]LogBlueprintUserMessages: [CabinetLockUI_C_0] Cast
+[2019.10.14-10.19.57:146][241]LogBlueprintUserMessages: [BP_Bookcase_2] Hello
+[2019.10.14-10.19.59:570][341]LogBlueprintUserMessages: [BP_Bookcase_2] Hello
+[2019.10.14-10.20.10:755][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.20.10:820][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-10.20.10:853][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.20.10:855][884]LogSlate: Slate User Unregistered.  User Index 8
+[2019.10.14-10.20.10:855][884]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.20.10:896][885]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.14-10.20.12:732][992]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.20.13:480][ 37]MapCheck: New page: Map Check
+[2019.10.14-10.20.13:531][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.20.13:576][ 37]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.14-10.20.13:591][ 37]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.14-10.20.13:901][ 37]LightingResults: New page: Lighting Build - Oct 14, 2019, 12:20:13 PM
+[2019.10.14-10.20.14:511][ 37]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.14-10.20.14:828][ 37]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.14-10.20.15:171][ 37]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.14-10.20.18:549][ 37]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.14-10.20.18:549][ 37]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9164
+[2019.10.14-10.20.25:271][ 37]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.14-10.20.25:297][ 37]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.14-10.20.25:297][ 37]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.14-10.20.25:298][ 37]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.14-10.20.25:298][ 37]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.14-10.20.25:298][ 37]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.14-10.20.26:177][ 37]LogEditorBuildUtils: Build time 0:12
+[2019.10.14-10.20.26:188][ 37]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2019.10.14-10.20.26:195][ 37]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2019.10.14-10.20.26:213][ 38]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.14-10.20.26:213][ 38]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.14-10.20.26:264][ 38]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.10.14-10.20.26:271][ 38]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.14-10.20.26:271][ 38]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.10.14-10.20.26:298][ 38]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.14-10.20.26:355][ 40]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.10.14-10.20.26:375][ 40]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.10.14-10.20.26:398][ 41]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Blue_Mat, compiling. 
+[2019.10.14-10.20.26:407][ 41]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Blue_Mat, compiling. 
+[2019.10.14-10.20.26:424][ 42]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material__27, compiling. 
+[2019.10.14-10.20.26:432][ 42]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material__27, compiling. 
+[2019.10.14-10.20.26:452][ 43]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material__25, compiling. 
+[2019.10.14-10.20.26:478][ 43]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material__25, compiling. 
+[2019.10.14-10.20.26:499][ 44]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Gold_Mat, compiling. 
+[2019.10.14-10.20.26:511][ 44]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Gold_Mat, compiling. 
+[2019.10.14-10.20.26:532][ 45]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Poster_NoEmissive_Mat, compiling. 
+[2019.10.14-10.20.26:546][ 45]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Poster_NoEmissive_Mat, compiling. 
+[2019.10.14-10.20.26:565][ 46]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material__25, compiling. 
+[2019.10.14-10.20.26:574][ 46]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material__25, compiling. 
+[2019.10.14-10.20.26:593][ 47]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer 01_-_Default, compiling. 
+[2019.10.14-10.20.26:601][ 47]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer 01_-_Default, compiling. 
+[2019.10.14-10.20.29:872][ 49]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.10.14-10.20.29:872][ 49]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.14-10.20.29:872][ 49]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.14-10.20.29:872][ 49]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.14-10.20.39:882][559]Job is a success!
+[2019.10.14-10.20.39:933][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.20.40:002][560]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2019.10.14-10.20.40:002][560]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.14-10.20.40:002][560]LogVolumetricLightmapImport:      BrickData 325x5x5 = 0.3Mb
+[2019.10.14-10.20.40:002][560]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.14-10.20.40:002][560]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2019.10.14-10.20.40:002][560]LogVolumetricLightmapImport:          1: 6.2% covering 6.3% of volume
+[2019.10.14-10.20.40:002][560]LogVolumetricLightmapImport:          2: 92.3% covering 1.5% of volume
+[2019.10.14-10.20.40:119][560]LogMaterial: Warning: Material /Game/Meshes/Alembic/Material__25.Material__25 needed to have new flag set bUsedWithStaticLighting !
+[2019.10.14-10.20.40:122][560]LogMaterial: Display: Missing cached shader map for material Material__25, compiling. 
+[2019.10.14-10.20.40:153][560]LogMaterial: Warning: Material /Game/Meshes/Alembic/01_-_Default.01_-_Default needed to have new flag set bUsedWithStaticLighting !
+[2019.10.14-10.20.40:155][560]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2019.10.14-10.20.40:176][560]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.10.14-10.20.40:176][560]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.10.14-10.20.40:176][560]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.14-10.20.40:176][560]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.14-10.20.40:607][560]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2019.10.14-10.20.40:607][560]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2019.10.14-10.20.40:607][560]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.10.14-10.20.40:607][560]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.10.14-10.20.40:607][560]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.10.14-10.20.40:607][560]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.10.14-10.20.40:765][560]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2019.10.14-10.20.40:765][560]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X256)
+[2019.10.14-10.20.40:765][560]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X256)
+[2019.10.14-10.20.41:157][560]Lightmass on DESKTOP-MR7B4EC: 8.73 sec total, 4.90 sec importing, 41 ms setup, 585 ms photons, 2.76 sec processing, 0 ms extra exporting [269/269 mappings]. Threads: 19.2 sec total, 7.89 sec processing.
+[2019.10.14-10.20.41:271][560]LogStaticLightingSystem: Illumination: 27.3 sec (400 ms encoding lightmaps, 150 ms encoding shadowmaps)
+[2019.10.14-10.20.41:271][560]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.0 MB streaming, 0.5 MB non-streaming), 6 textures
+[2019.10.14-10.20.41:272][560]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.3 MB streaming, 0.1 MB non-streaming), 3 textures
+[2019.10.14-10.20.42:253][560]DumpUnbuiltLightIteractions
+[2019.10.14-10.20.42:253][560]Lights with unbuilt interactions: 0
+[2019.10.14-10.20.42:253][560]
+[2019.10.14-10.20.42:253][560]Primitives with unbuilt interactions: 0
+[2019.10.14-10.20.42:261][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.20.47:870][560]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.10.14-10.20.47:870][560]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.14-10.20.47:870][560]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.14-10.20.47:870][560]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.14-10.20.48:109][561]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.14-10.20.48:109][561]MapCheck: New page: MainLevel - Oct 14, 2019, 12:20:48 PM
+[2019.10.14-10.20.48:230][561]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 121.378ms to complete.
+[2019.10.14-10.21.35:013][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.21.39:538][861]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.14-10.21.42:102][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.21.44:160][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.21.59:025][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.22.04:245][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.22.07:011][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.22.10:192][525]Cmd: TRANSACTION UNDO
+[2019.10.14-10.22.10:192][525]LogEditorTransaction: Undo Move Actors
+[2019.10.14-10.22.10:225][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:226][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush21.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:226][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:226][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:227][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:227][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:231][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:231][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:231][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:232][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush58.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:233][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:233][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush37.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:233][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:233][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush43.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:234][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush45_34.BrushComponent0) Component already registered.
+[2019.10.14-10.22.10:234][525]LogActorComponent: ~FComponentReregisterContext: (/Game/MainLevel.MainLevel:PersistentLevel.BoxBrush44.BrushComponent0) Component already registered.
+[2019.10.14-10.22.47:955][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.22.48:770][453]MapCheck: New page: Map Check
+[2019.10.14-10.22.48:785][453]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.22.48:799][453]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.14-10.22.48:802][453]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.14-10.22.49:125][453]LightingResults: New page: Lighting Build - Oct 14, 2019, 12:22:49 PM
+[2019.10.14-10.22.49:149][453]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.14-10.22.49:151][453]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.14-10.22.49:151][453]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.14-10.22.49:153][453]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.14-10.22.49:153][453]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9164
+[2019.10.14-10.22.53:668][453]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.14-10.22.53:669][453]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.14-10.22.53:669][453]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.14-10.22.53:669][453]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.14-10.22.53:669][453]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.14-10.22.53:669][453]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.14-10.22.53:830][453]LogEditorBuildUtils: Build time 0:05
+[2019.10.14-10.22.53:891][454]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material__25, compiling. 
+[2019.10.14-10.22.53:899][454]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material__25, compiling. 
+[2019.10.14-10.22.53:914][454]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.14-10.22.53:921][455]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer 01_-_Default, compiling. 
+[2019.10.14-10.22.53:931][455]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.14-10.22.53:931][455]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer 01_-_Default, compiling. 
+[2019.10.14-10.22.53:992][455]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.14-10.22.58:628][618]Job is a success!
+[2019.10.14-10.22.58:657][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.22.58:706][619]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2019.10.14-10.22.58:706][619]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.14-10.22.58:706][619]LogVolumetricLightmapImport:      BrickData 330x5x5 = 0.3Mb
+[2019.10.14-10.22.58:706][619]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.14-10.22.58:706][619]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2019.10.14-10.22.58:706][619]LogVolumetricLightmapImport:          1: 6.1% covering 6.3% of volume
+[2019.10.14-10.22.58:706][619]LogVolumetricLightmapImport:          2: 92.4% covering 1.5% of volume
+[2019.10.14-10.22.59:046][619]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2019.10.14-10.22.59:046][619]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.10.14-10.22.59:047][619]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.10.14-10.22.59:047][619]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.10.14-10.22.59:047][619]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.10.14-10.22.59:047][619]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.10.14-10.22.59:126][619]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2019.10.14-10.22.59:126][619]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 512X256)
+[2019.10.14-10.22.59:126][619]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X256)
+[2019.10.14-10.22.59:147][619]Lightmass on DESKTOP-MR7B4EC: 2.88 sec total, 256 ms importing, 20 ms setup, 579 ms photons, 2.00 sec processing, 0 ms extra exporting [278/278 mappings]. Threads: 13.8 sec total, 7.01 sec processing.
+[2019.10.14-10.22.59:196][619]LogStaticLightingSystem: Illumination: 10.0 sec (257 ms encoding lightmaps, 75 ms encoding shadowmaps)
+[2019.10.14-10.22.59:196][619]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.0 MB streaming, 0.5 MB non-streaming), 6 textures
+[2019.10.14-10.22.59:196][619]LogStaticLightingSystem: Shadowmap texture memory: 0.5 MB (0.3 MB streaming, 0.2 MB non-streaming), 3 textures
+[2019.10.14-10.22.59:674][619]DumpUnbuiltLightIteractions
+[2019.10.14-10.22.59:674][619]Lights with unbuilt interactions: 0
+[2019.10.14-10.22.59:674][619]
+[2019.10.14-10.22.59:674][619]Primitives with unbuilt interactions: 0
+[2019.10.14-10.22.59:681][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.22.59:778][620]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.14-10.22.59:778][620]MapCheck: New page: MainLevel - Oct 14, 2019, 12:22:59 PM
+[2019.10.14-10.22.59:855][620]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.044ms to complete.
+[2019.10.14-10.23.02:560][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.23.02:624][786]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-10.23.02:643][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-10.23.02:644][786]PIE: New page: PIE session: MainLevel (Oct 14, 2019, 12:23:02 PM)
+[2019.10.14-10.23.02:644][786]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2019.10.14-10.23.02:669][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025355s)
+[2019.10.14-10.23.02:670][786]LogAIModule: Creating AISystem for world MainLevel
+[2019.10.14-10.23.02:670][786]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2019.10.14-10.23.02:670][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.026475s)
+[2019.10.14-10.23.02:708][786]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-10.23.02:814][786]LogInit: FAudioDevice initialized.
+[2019.10.14-10.23.02:850][786]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.14-10.23.02:860][786]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2019.10.14-11.23.02
+[2019.10.14-10.23.02:861][786]LogWorld: Bringing up level for play took: 0.009075
+[2019.10.14-10.23.02:874][786]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.23.02:874][786]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.14-10.23.02:874][786]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.23.02:874][786]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.23.02:874][786]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.23.02:876][786]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.14-10.23.02:877][786]PIE: Play in editor start time for /Game/UEDPIE_0_MainLevel -0.399
+[2019.10.14-10.23.02:877][786]LogBlueprintUserMessages: [LockUI_C_0] Cast
+[2019.10.14-10.23.02:877][786]LogBlueprintUserMessages: [DeskLockUI_C_0] Cast
+[2019.10.14-10.23.02:878][786]LogBlueprintUserMessages: [CabinetLockUI_C_0] Cast
+[2019.10.14-10.23.14:415][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.23.14:474][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-10.23.14:510][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-10.23.14:512][384]LogSlate: Slate User Unregistered.  User Index 8
+[2019.10.14-10.23.14:512][384]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2019.10.14-10.23.14:551][385]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.14-10.23.33:678][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-10.23.39:767][759]LogEditorViewport: Clicking on Actor (LMB): BP_LightSwitch_C (BP_LightSwitch)
+[2019.10.14-10.23.40:817][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.23.41:620][865]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-10.23.41:624][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_LightSwitch.BP_LightSwitch
+[2019.10.14-10.24.17:017][949]BlueprintLog: New page: Compile BP_MainRoomLights
+[2019.10.14-10.24.27:563][564]LogUObjectBase: Warning: Object is not registered
+[2019.10.14-10.24.29:765][564]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.202 s
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: 
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: Stack: 
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb8ef671f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb8eca0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb8ecbb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb87a011db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb87a1060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb7b61da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb7450ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb744cf337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb8da98204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb8dcde933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb8daf281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb8dac8190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb8dabb073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb9e38d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb9e380270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb9e38f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb9e37c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffbd8d063ed USER32.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffbd8d05de2 USER32.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ffb9e390646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ff6ae1154e5 UE4Editor.exe!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ff6ae125b3c UE4Editor.exe!UnknownFunction []
+[2019.10.14-10.24.29:765][564]LogOutputDevice: Error: [Callstack] 0x00007ff6ae125bba UE4Editor.exe!UnknownFunction []
+[2019.10.14-10.24.29:766][564]LogOutputDevice: Error: [Callstack] 0x00007ff6ae133dac UE4Editor.exe!UnknownFunction []
+[2019.10.14-10.24.29:766][564]LogOutputDevice: Error: [Callstack] 0x00007ff6ae135aaa UE4Editor.exe!UnknownFunction []
+[2019.10.14-10.24.29:766][564]LogOutputDevice: Error: [Callstack] 0x00007ffbd9f07bd4 KERNEL32.DLL!UnknownFunction []
+[2019.10.14-10.24.29:766][564]LogOutputDevice: Error: [Callstack] 0x00007ffbda90ced1 ntdll.dll!UnknownFunction []
+[2019.10.14-10.24.29:766][564]LogOutputDevice: Error: 
+[2019.10.14-10.24.29:785][564]LogStats:                SubmitErrorReport -  0.014 s
